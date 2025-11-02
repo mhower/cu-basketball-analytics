@@ -108,15 +108,15 @@ with st.sidebar:
     if data_source == "Local XML Files":
         xml_directory = st.text_input("XML Directory Path", "/mnt/project")
            # Temporary debug info
-   import os
-   st.write("**Debug Info:**")
-   st.write("Current working directory:", os.getcwd())
-   st.write("Files in current directory:", os.listdir('.'))
-   if os.path.exists('xml_games'):
-       st.write("xml_games folder exists!")
-       st.write("Files in xml_games:", os.listdir('xml_games'))
-   else:
-       st.write("❌ xml_games folder NOT FOUND")
+    import os
+    st.write("**Debug Info:**")
+    st.write("Current working directory:", os.getcwd())
+    st.write("Files in current directory:", os.listdir('.'))
+    if os.path.exists('xml_games'):
+        st.write("xml_games folder exists!")
+        st.write("Files in xml_games:", os.listdir('xml_games'))
+    else:
+        st.write("❌ xml_games folder NOT FOUND")
        
         load_button = st.button("🔄 Load Games", type="primary", use_container_width=True)
         
