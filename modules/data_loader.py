@@ -21,27 +21,45 @@ class GameDataLoader:
         ]
     
     def load_all_games(self) -> List[Dict[str, Any]]:
-        """Load all XML files from directory"""
-        if not self.directory:
-            return []
-        
-        path = Path(self.directory)
-        if not path.exists():
-            raise ValueError(f"Directory not found: {self.directory}")
-        
-        games = []
-        xml_files = sorted(path.glob("*.xml"))
-        
-        for xml_file in xml_files:
-            try:
-                game_data = self.parse_game_file(str(xml_file))
-                if game_data:
-                    games.append(game_data)
-            except Exception as e:
-                print(f"Error parsing {xml_file.name}: {str(e)}")
-                continue
-        
-        return games
+    """Load all XML files from directory"""
+    if not self.directory:
+        return []
+    
+    path = Path(self.directory)
+    
+    # Debug: Try multiple possible paths
+    possible_paths = [
+        Path(self.directory),
+        Path(f"/mount/src/cu-basketball-analytics/{self.directory}"),
+        Path(f"./{self.directory}"),
+        Path(f"/app/cu-basketball-analytics/{self.directory}")
+    ]
+    
+    # Find which path actually exists
+    for test_path in possible_paths:
+        if test_path.exists():
+            path = test_path
+            break
+    else:
+        # None of the paths exist
+        print(f"❌ Could not find directory. Tried: {[str(p) for p in possible_paths]}")
+        return []
+    
+    games = []
+    xml_files = sorted(path.glob("*.xml"))
+    
+    print(f"✅ Found {len(xml_files)} XML files in {path}")
+    
+    for xml_file in xml_files:
+        try:
+            game_data = self.parse_game_file(str(xml_file))
+            if game_data:
+                games.append(game_data)
+        except Exception as e:
+            print(f"Error parsing {xml_file.name}: {str(e)}")
+            continue
+    
+    return games
     
     def load_from_uploads(self, uploaded_files) -> List[Dict[str, Any]]:
         """Load games from uploaded file objects"""
