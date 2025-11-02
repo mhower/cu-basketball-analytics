@@ -1,0 +1,788 @@
+<?xml version="1.0"?>
+<bbgame source="StatBroadcast Listener" version="1.0" generated="03/23/2025" coords="N">
+  <venue gameid="16720" sbid="587942" competitionid="38529" competitionname="2024-25 Women's Basketball" date="03/23/2025" location="CU Events Center - Boulder" time="03:00 PM ET" attend="1860" schednote="" start="03:02 PM ET" end="05:05 PM ET" duration="2:02" visid="GON" visname="Gonzaga" homeid="COL" homename="Colorado" leaguegame="N" neutralgame="N" postseason="N" gender="W">
+    <officials text="Kelly Broomfield, Jeff Wooten, Charlie Stein"/>
+    <notes/>
+    <rules prds="4" minutes="10" minutesot="5" fouls="5" qh="Q"/>
+  </venue>
+  <status complete="Y" period="4" periodtype="REGULAR" clock="00:00" running="F" arrow="V" poss="V" periodstatus="CONFIRMED" gamestatus="COMPLETE"/>
+  <team vh="V" id="GON" name="Gonzaga" record="">
+    <linescore line="15,11,25,13" score="64">
+      <lineprd prd="1" score="15"/>
+      <lineprd prd="2" score="11"/>
+      <lineprd prd="3" score="25"/>
+      <lineprd prd="4" score="13"/>
+    </linescore>
+    <totals>
+      <stats fgm="25" fga="57" fgm3="9" fga3="21" ftm="5" fta="6" tp="64" blk="4" stl="11" ast="18" min="199" oreb="7" dreb="24" treb="31" pf="16" tf="0" drawn="11" to="12" deadball="0,0" fgpct="43.9" fg3pct="43" ftpct="83.3"/>
+      <special vh="V" pts_to="15" pts_ch2="8" pts_paint="20" pts_fastb="14" pts_bench="13" ties="2" leads="3" poss_count="65" poss_time="" score_count="27" score_time="" lead_time="1489" tied_time="284" large_lead="12" large_lead_t="4th-00:20" biggest_run="8"/>
+      <statsbyprd prd="1" fgm="6" fga="10" fgm3="2" fga3="4" ftm="1" fta="2" tp="15" blk="3" stl="1" ast="5" min="50" oreb="0" dreb="7" treb="7" pf="2" tf="0" to="5"/>
+      <statsbyprd prd="2" fgm="5" fga="16" fgm3="1" fga3="5" ftm="0" fta="0" tp="11" blk="0" stl="2" ast="3" min="50" oreb="2" dreb="8" treb="10" pf="3" tf="0" to="2"/>
+      <statsbyprd prd="3" fgm="9" fga="17" fgm3="5" fga3="8" ftm="2" fta="2" tp="25" blk="0" stl="4" ast="6" min="50" oreb="2" dreb="3" treb="5" pf="5" tf="0" to="1"/>
+      <statsbyprd prd="4" fgm="5" fga="14" fgm3="1" fga3="4" ftm="2" fta="2" tp="13" blk="1" stl="4" ast="4" min="49" oreb="3" dreb="6" treb="9" pf="6" tf="0" to="4"/>
+      <season gp="33" fgm="827" fga="1890" fgm3="238" fga3="648" ftm="360" fta="496" tp="2252" blk="98" br="95" stl="220" ast="525" min="6700" oreb="426" dreb="884" treb="1310" pf="513" of="60" drawn="538" to="574" eff="2562"/>
+    </totals>
+    <player uni="0" pno="4" code="1698593" name="Little,Esther" checkname="LITTLE,ESTHER" class="" gp="1" gs="0" pos="G" oncourt="Y">
+      <stats fgm="1" fga="2" fgm3="0" fga3="0" ftm="0" fta="0" tp="2" blk="0" stl="0" ast="0" min="19" oreb="0" dreb="1" treb="1" pf="1" tf="0" to="1" drawn="1" plusminus="9" blkrcvd="0" eff="1" pts_paint="2" pts_fastb="2" pts_ch2="0" dq="0"/>
+      <statsbyprd prd="1" fgm="1" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="2" blk="0" stl="0" ast="0" min="5" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" pts_paint="2" pts_fastb="2" pts_ch2="0" dq="" drawn="0" plusminus="8" blkrcvd="0" eff="3"/>
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="6" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="-2" blkrcvd="0" eff="0"/>
+      <statsbyprd prd="3" fgm="0" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="5" oreb="0" dreb="0" treb="0" pf="1" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="1" plusminus="4" blkrcvd="0" eff="-1"/>
+      <statsbyprd prd="4" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="2" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="1" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="-1" blkrcvd="0" eff="-1"/>
+      <season gp="29" fgm="27" fga="79" fgm3="2" fga3="17" ftm="10" fta="18" tp="66" blk="6" stl="23" ast="53" min="761" oreb="66" dreb="97" treb="163" pf="56" tf="" to="62" drawn="37" plusminus="80" blkrcvd="11" eff="159"/>
+    </player>
+    <player uni="2" pno="10" code="2303021" name="Gunaydin,Vera" checkname="GUNAYDIN,VERA" class="" gp="0" gs="0" pos="G" oncourt="N">
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" drawn="0" plusminus="0" blkrcvd="0" eff="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="0"/>
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="0" blkrcvd="0" eff="0"/>
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="0" blkrcvd="0" eff="0"/>
+      <statsbyprd prd="3" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="0" blkrcvd="0" eff="0"/>
+      <statsbyprd prd="4" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="0" blkrcvd="0" eff="0"/>
+      <season gp="17" fgm="1" fga="20" fgm3="1" fga3="12" ftm="0" fta="0" tp="3" blk="1" stl="2" ast="3" min="69" oreb="4" dreb="4" treb="8" pf="2" tf="" to="4" drawn="4" plusminus="-5" blkrcvd="0" eff="-4"/>
+    </player>
+    <player uni="4" pno="7" code="2111086" name="O'Connor,Claire" checkname="O'CONNOR,CLAIRE" class="" gp="1" gs="1" pos="G" oncourt="N">
+      <stats fgm="2" fga="9" fgm3="1" fga3="7" ftm="0" fta="0" tp="5" blk="0" stl="0" ast="1" min="18" oreb="0" dreb="2" treb="2" pf="2" tf="0" to="1" drawn="0" plusminus="1" blkrcvd="1" eff="0" pts_paint="2" pts_fastb="2" pts_ch2="0" dq="0"/>
+      <statsbyprd prd="1" fgm="0" fga="1" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="5" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="1" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="-9" blkrcvd="0" eff="-1"/>
+      <statsbyprd prd="2" fgm="1" fga="3" fgm3="1" fga3="2" ftm="0" fta="0" tp="3" blk="0" stl="0" ast="1" min="6" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="7" blkrcvd="1" eff="3"/>
+      <statsbyprd prd="3" fgm="0" fga="2" fgm3="0" fga3="2" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="3" oreb="0" dreb="0" treb="0" pf="2" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="1" blkrcvd="0" eff="-2"/>
+      <statsbyprd prd="4" fgm="1" fga="3" fgm3="0" fga3="2" ftm="0" fta="0" tp="2" blk="0" stl="0" ast="0" min="4" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="2" pts_fastb="2" pts_ch2="0" dq="" drawn="0" plusminus="2" blkrcvd="0" eff="0"/>
+      <season gp="32" fgm="84" fga="197" fgm3="47" fga3="109" ftm="34" fta="50" tp="249" blk="5" stl="30" ast="40" min="753" oreb="46" dreb="67" treb="113" pf="68" tf="" to="43" drawn="38" plusminus="63" blkrcvd="6" eff="229"/>
+    </player>
+    <player uni="5" pno="3" code="1615275" name="Huijbens,Maud" checkname="HUIJBENS,MAUD" class="" gp="1" gs="1" pos="F" oncourt="N">
+      <stats fgm="4" fga="9" fgm3="1" fga3="3" ftm="0" fta="0" tp="9" blk="1" stl="2" ast="1" min="29" oreb="2" dreb="2" treb="4" pf="4" tf="0" to="2" drawn="2" plusminus="4" blkrcvd="1" eff="10" pts_paint="6" pts_fastb="0" pts_ch2="5" dq="0"/>
+      <statsbyprd prd="1" fgm="0" fga="1" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="1" min="7" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="1" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="-2" blkrcvd="0" eff="-1"/>
+      <statsbyprd prd="2" fgm="1" fga="3" fgm3="0" fga3="1" ftm="0" fta="0" tp="2" blk="0" stl="1" ast="0" min="6" oreb="1" dreb="0" treb="1" pf="0" tf="0" to="1" pts_paint="2" pts_fastb="0" pts_ch2="2" dq="" drawn="0" plusminus="3" blkrcvd="1" eff="1"/>
+      <statsbyprd prd="3" fgm="1" fga="1" fgm3="1" fga3="1" ftm="0" fta="0" tp="3" blk="0" stl="0" ast="0" min="8" oreb="0" dreb="0" treb="0" pf="1" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="3" dq="" drawn="0" plusminus="4" blkrcvd="0" eff="3"/>
+      <statsbyprd prd="4" fgm="2" fga="4" fgm3="0" fga3="0" ftm="0" fta="0" tp="4" blk="1" stl="1" ast="0" min="8" oreb="1" dreb="2" treb="3" pf="3" tf="0" to="0" pts_paint="4" pts_fastb="0" pts_ch2="0" dq="" drawn="2" plusminus="-1" blkrcvd="0" eff="7"/>
+      <season gp="27" fgm="102" fga="239" fgm3="15" fga3="57" ftm="34" fta="55" tp="253" blk="11" stl="21" ast="52" min="744" oreb="48" dreb="138" treb="186" pf="68" tf="" to="63" drawn="73" plusminus="19" blkrcvd="20" eff="287"/>
+    </player>
+    <player uni="8" pno="6" code="1907334" name="Bettencourt,Ines" checkname="BETTENCOURT,INES" class="" gp="1" gs="0" pos="G" oncourt="N">
+      <stats fgm="1" fga="5" fgm3="1" fga3="2" ftm="0" fta="0" tp="3" blk="1" stl="1" ast="5" min="17" oreb="0" dreb="3" treb="3" pf="1" tf="0" to="2" drawn="1" plusminus="15" blkrcvd="0" eff="7" pts_paint="0" pts_fastb="3" pts_ch2="0" dq="0"/>
+      <statsbyprd prd="1" fgm="1" fga="1" fgm3="1" fga3="1" ftm="0" fta="0" tp="3" blk="1" stl="0" ast="1" min="5" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="3" pts_ch2="0" dq="" drawn="0" plusminus="8" blkrcvd="0" eff="5"/>
+      <statsbyprd prd="2" fgm="0" fga="2" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="1" min="4" oreb="0" dreb="1" treb="1" pf="1" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="1" plusminus="-1" blkrcvd="0" eff="0"/>
+      <statsbyprd prd="3" fgm="0" fga="2" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="1" ast="3" min="7" oreb="0" dreb="2" treb="2" pf="0" tf="0" to="1" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="7" blkrcvd="0" eff="3"/>
+      <statsbyprd prd="4" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="2" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="1" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="1" blkrcvd="0" eff="-1"/>
+      <season gp="33" fgm="72" fga="185" fgm3="26" fga3="73" ftm="29" fta="39" tp="199" blk="9" stl="29" ast="82" min="743" oreb="9" dreb="61" treb="70" pf="59" tf="" to="78" drawn="62" plusminus="60" blkrcvd="7" eff="184"/>
+    </player>
+    <player uni="10" pno="2" code="1606381" name="Dalton,Tayla" checkname="DALTON,TAYLA" class="" gp="1" gs="1" pos="G" oncourt="Y">
+      <stats fgm="2" fga="5" fgm3="1" fga3="1" ftm="2" fta="2" tp="7" blk="0" stl="2" ast="1" min="27" oreb="1" dreb="1" treb="2" pf="0" tf="0" to="2" drawn="2" plusminus="-3" blkrcvd="0" eff="7" pts_paint="2" pts_fastb="2" pts_ch2="0" dq="0"/>
+      <statsbyprd prd="1" fgm="1" fga="1" fgm3="1" fga3="1" ftm="0" fta="0" tp="3" blk="0" stl="0" ast="0" min="7" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="1" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="-6" blkrcvd="0" eff="2"/>
+      <statsbyprd prd="2" fgm="1" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="2" blk="0" stl="0" ast="1" min="9" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" pts_paint="2" pts_fastb="2" pts_ch2="0" dq="" drawn="1" plusminus="6" blkrcvd="0" eff="4"/>
+      <statsbyprd prd="3" fgm="0" fga="2" fgm3="0" fga3="0" ftm="2" fta="2" tp="2" blk="0" stl="2" ast="0" min="6" oreb="1" dreb="0" treb="1" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="1" plusminus="-1" blkrcvd="0" eff="3"/>
+      <statsbyprd prd="4" fgm="0" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="6" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="1" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="-2" blkrcvd="0" eff="-2"/>
+      <season gp="22" fgm="40" fga="99" fgm3="13" fga3="39" ftm="19" fta="31" tp="112" blk="2" stl="23" ast="50" min="561" oreb="26" dreb="58" treb="84" pf="34" tf="" to="29" drawn="47" plusminus="141" blkrcvd="8" eff="176"/>
+    </player>
+    <player uni="11" pno="11" code="2303025" name="Turner,Allie" checkname="TURNER,ALLIE" class="" gp="1" gs="1" pos="G" oncourt="Y">
+      <stats fgm="6" fga="8" fgm3="3" fga3="4" ftm="0" fta="0" tp="15" blk="0" stl="1" ast="5" min="33" oreb="0" dreb="4" treb="4" pf="2" tf="0" to="2" drawn="2" plusminus="2" blkrcvd="0" eff="21" pts_paint="2" pts_fastb="0" pts_ch2="3" dq="0"/>
+      <statsbyprd prd="1" fgm="2" fga="2" fgm3="0" fga3="0" ftm="0" fta="0" tp="4" blk="0" stl="0" ast="2" min="8" oreb="0" dreb="2" treb="2" pf="0" tf="0" to="1" pts_paint="2" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="-4" blkrcvd="0" eff="7"/>
+      <statsbyprd prd="2" fgm="0" fga="2" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="7" oreb="0" dreb="1" treb="1" pf="1" tf="0" to="1" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="-1" blkrcvd="0" eff="-2"/>
+      <statsbyprd prd="3" fgm="4" fga="4" fgm3="3" fga3="3" ftm="0" fta="0" tp="11" blk="0" stl="1" ast="3" min="10" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="3" dq="" drawn="0" plusminus="8" blkrcvd="0" eff="15"/>
+      <statsbyprd prd="4" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="8" oreb="0" dreb="1" treb="1" pf="1" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="2" plusminus="-1" blkrcvd="0" eff="1"/>
+      <season gp="33" fgm="156" fga="343" fgm3="98" fga3="217" ftm="33" fta="38" tp="443" blk="17" stl="22" ast="120" min="1077" oreb="11" dreb="101" treb="112" pf="49" tf="" to="91" drawn="38" plusminus="189" blkrcvd="14" eff="406"/>
+    </player>
+    <player uni="12" pno="12" code="2303027" name="Osarobo,Christabel" checkname="OSAROBO,CHRISTABEL" class="" gp="1" gs="0" pos="G" oncourt="N">
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="1" min="1" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="1" drawn="0" plusminus="3" blkrcvd="0" eff="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="0"/>
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="1" min="1" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="1" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="3" blkrcvd="0" eff="0"/>
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="0" blkrcvd="0" eff="0"/>
+      <statsbyprd prd="3" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="0" blkrcvd="0" eff="0"/>
+      <statsbyprd prd="4" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="0" blkrcvd="0" eff="0"/>
+      <season gp="27" fgm="7" fga="24" fgm3="5" fga3="14" ftm="1" fta="6" tp="20" blk="0" stl="6" ast="6" min="191" oreb="4" dreb="13" treb="17" pf="16" tf="" to="10" drawn="6" plusminus="-74" blkrcvd="0" eff="7"/>
+    </player>
+    <player uni="15" pno="1" code="1582594" name="Ejim,Yvonne" checkname="EJIM,YVONNE" class="" gp="1" gs="1" pos="F" oncourt="Y">
+      <stats fgm="7" fga="14" fgm3="0" fga3="1" ftm="1" fta="2" tp="15" blk="2" stl="2" ast="3" min="32" oreb="0" dreb="10" treb="10" pf="3" tf="0" to="0" drawn="2" plusminus="5" blkrcvd="0" eff="24" pts_paint="6" pts_fastb="2" pts_ch2="0" dq="0"/>
+      <statsbyprd prd="1" fgm="1" fga="3" fgm3="0" fga3="0" ftm="1" fta="2" tp="3" blk="2" stl="0" ast="0" min="7" oreb="0" dreb="2" treb="2" pf="0" tf="0" to="0" pts_paint="2" pts_fastb="0" pts_ch2="0" dq="" drawn="1" plusminus="-6" blkrcvd="0" eff="4"/>
+      <statsbyprd prd="2" fgm="2" fga="5" fgm3="0" fga3="1" ftm="0" fta="0" tp="4" blk="0" stl="1" ast="0" min="7" oreb="0" dreb="4" treb="4" pf="1" tf="0" to="0" pts_paint="2" pts_fastb="2" pts_ch2="0" dq="" drawn="0" plusminus="3" blkrcvd="0" eff="6"/>
+      <statsbyprd prd="3" fgm="3" fga="4" fgm3="0" fga3="0" ftm="0" fta="0" tp="6" blk="0" stl="0" ast="0" min="8" oreb="0" dreb="1" treb="1" pf="1" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="1" plusminus="8" blkrcvd="0" eff="6"/>
+      <statsbyprd prd="4" fgm="1" fga="2" fgm3="0" fga3="0" ftm="0" fta="0" tp="2" blk="0" stl="1" ast="3" min="10" oreb="0" dreb="3" treb="3" pf="1" tf="0" to="0" pts_paint="2" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="0" blkrcvd="0" eff="8"/>
+      <season gp="33" fgm="262" fga="497" fgm3="11" fga3="44" ftm="149" fta="189" tp="684" blk="32" stl="45" ast="80" min="1023" oreb="102" dreb="198" treb="300" pf="93" tf="" to="105" drawn="167" plusminus="260" blkrcvd="19" eff="816"/>
+    </player>
+    <player uni="22" pno="9" code="2118009" name="Dalan,McKynnlie" checkname="DALAN,MCKYNNLIE" class="" gp="1" gs="0" pos="F" oncourt="N">
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="1" oreb="0" dreb="0" treb="0" pf="1" tf="0" to="0" drawn="0" plusminus="-2" blkrcvd="0" eff="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="0"/>
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="1" oreb="0" dreb="0" treb="0" pf="1" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="-2" blkrcvd="0" eff="0"/>
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="0" blkrcvd="0" eff="0"/>
+      <statsbyprd prd="3" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="0" blkrcvd="0" eff="0"/>
+      <statsbyprd prd="4" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="0" blkrcvd="0" eff="0"/>
+      <season gp="31" fgm="35" fga="94" fgm3="2" fga3="6" ftm="26" fta="37" tp="98" blk="5" stl="13" ast="16" min="421" oreb="37" dreb="36" treb="73" pf="38" tf="" to="20" drawn="32" plusminus="-56" blkrcvd="6" eff="103"/>
+    </player>
+    <player uni="31" pno="8" code="2111089" name="Hopkins,Ella" checkname="HOPKINS,ELLA" class="" gp="0" gs="0" pos="F" oncourt="N">
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" drawn="0" plusminus="0" blkrcvd="0" eff="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="0"/>
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="0" blkrcvd="0" eff="0"/>
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="0" blkrcvd="0" eff="0"/>
+      <statsbyprd prd="3" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="0" blkrcvd="0" eff="0"/>
+      <statsbyprd prd="4" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="0" blkrcvd="0" eff="0"/>
+      <season gp="10" fgm="1" fga="3" fgm3="0" fga3="1" ftm="2" fta="2" tp="4" blk="0" stl="0" ast="0" min="18" oreb="0" dreb="1" treb="1" pf="0" tf="" to="1" drawn="1" plusminus="-16" blkrcvd="0" eff="3"/>
+    </player>
+    <player uni="33" pno="13" code="2303030" name="Whittaker,Lauren" checkname="WHITTAKER,LAUREN" class="" gp="0" gs="0" pos="F" oncourt="N">
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" drawn="0" plusminus="0" blkrcvd="0" eff="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="0"/>
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="0" blkrcvd="0" eff="0"/>
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="0" blkrcvd="0" eff="0"/>
+      <statsbyprd prd="3" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="0" blkrcvd="0" eff="0"/>
+      <statsbyprd prd="4" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="0" blkrcvd="0" eff="0"/>
+      <season gp="0" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="" to="0" drawn="0" plusminus="0" blkrcvd="0" eff="0"/>
+    </player>
+    <player uni="35" pno="5" code="1698598" name="Salenbien,Bree" checkname="SALENBIEN,BREE" class="" gp="1" gs="0" pos="G" oncourt="Y">
+      <stats fgm="2" fga="5" fgm3="2" fga3="3" ftm="2" fta="2" tp="8" blk="0" stl="3" ast="1" min="21" oreb="1" dreb="0" treb="1" pf="2" tf="0" to="0" drawn="1" plusminus="11" blkrcvd="1" eff="10" pts_paint="0" pts_fastb="3" pts_ch2="0" dq="0"/>
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="1" ast="0" min="3" oreb="0" dreb="0" treb="0" pf="1" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="5" blkrcvd="0" eff="1"/>
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="4" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="-5" blkrcvd="0" eff="0"/>
+      <statsbyprd prd="3" fgm="1" fga="1" fgm3="1" fga3="1" ftm="0" fta="0" tp="3" blk="0" stl="0" ast="0" min="5" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="3" pts_ch2="0" dq="" drawn="0" plusminus="9" blkrcvd="0" eff="3"/>
+      <statsbyprd prd="4" fgm="1" fga="4" fgm3="1" fga3="2" ftm="2" fta="2" tp="5" blk="0" stl="2" ast="1" min="9" oreb="1" dreb="0" treb="1" pf="1" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="1" plusminus="2" blkrcvd="1" eff="6"/>
+      <season gp="19" fgm="40" fga="110" fgm3="18" fga3="59" ftm="23" fta="31" tp="121" blk="10" stl="6" ast="23" min="332" oreb="19" dreb="40" treb="59" pf="30" tf="" to="38" drawn="33" plusminus="19" blkrcvd="4" eff="102"/>
+    </player>
+    <player uni="TM" code="TM" name="TEAM" checkname="TEAM" class="" gp="1">
+      <stats oreb="3" dreb="1" treb="4" pf="0" tf="0" to="1" dq="0"/>
+      <statsbyprd prd="1" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" dq="0"/>
+      <statsbyprd prd="2" oreb="1" dreb="0" treb="1" pf="0" tf="0" to="0" dq="0"/>
+      <statsbyprd prd="3" oreb="1" dreb="0" treb="1" pf="0" tf="0" to="0" dq="0"/>
+      <statsbyprd prd="4" oreb="1" dreb="0" treb="1" pf="0" tf="0" to="1" dq="0"/>
+    </player>
+  </team>
+  <team vh="H" id="COL" name="Colorado" record="">
+    <linescore line="16,9,17,13" score="55">
+      <lineprd prd="1" score="16"/>
+      <lineprd prd="2" score="9"/>
+      <lineprd prd="3" score="17"/>
+      <lineprd prd="4" score="13"/>
+    </linescore>
+    <totals>
+      <stats fgm="18" fga="46" fgm3="5" fga3="18" ftm="14" fta="19" tp="55" blk="3" stl="7" ast="14" min="199" oreb="5" dreb="26" treb="31" pf="11" tf="0" drawn="16" to="16" deadball="4,0" fgpct="39.1" fg3pct="28" ftpct="73.7"/>
+      <special vh="H" pts_to="11" pts_ch2="4" pts_paint="22" pts_fastb="10" pts_bench="19" ties="4" leads="2" poss_count="65" poss_time="" score_count="25" score_time="" lead_time="616" tied_time="284" large_lead="8" large_lead_t="1st-06:45" biggest_run="7"/>
+      <statsbyprd prd="1" fgm="7" fga="18" fgm3="2" fga3="6" ftm="0" fta="0" tp="16" blk="0" stl="3" ast="6" min="50" oreb="4" dreb="5" treb="9" pf="1" tf="0" to="2"/>
+      <statsbyprd prd="2" fgm="3" fga="10" fgm3="1" fga3="6" ftm="2" fta="4" tp="9" blk="2" stl="1" ast="2" min="50" oreb="0" dreb="9" treb="9" pf="2" tf="0" to="5"/>
+      <statsbyprd prd="3" fgm="5" fga="9" fgm3="1" fga3="3" ftm="6" fta="6" tp="17" blk="0" stl="1" ast="4" min="50" oreb="1" dreb="6" treb="7" pf="3" tf="0" to="5"/>
+      <statsbyprd prd="4" fgm="3" fga="9" fgm3="1" fga3="3" ftm="6" fta="9" tp="13" blk="1" stl="2" ast="2" min="49" oreb="0" dreb="6" treb="6" pf="5" tf="0" to="4"/>
+      <season gp="33" fgm="863" fga="1849" fgm3="212" fga3="604" ftm="338" fta="471" tp="2276" blk="94" br="115" stl="247" ast="534" min="6625" oreb="358" dreb="848" treb="1206" pf="584" of="68" drawn="500" to="599" eff="2438"/>
+    </totals>
+    <player uni="1" pno="10" code="2117997" name="Johnson,Ayianna" checkname="JOHNSON,AYIANNA" class="" gp="1" gs="0" pos="F" oncourt="N">
+      <stats fgm="1" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="2" blk="0" stl="0" ast="0" min="3" oreb="1" dreb="0" treb="1" pf="0" tf="0" to="1" drawn="0" plusminus="-5" blkrcvd="0" eff="2" pts_paint="2" pts_fastb="0" pts_ch2="0" dq="0"/>
+      <statsbyprd prd="1" fgm="1" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="2" blk="0" stl="0" ast="0" min="3" oreb="1" dreb="0" treb="1" pf="0" tf="0" to="1" pts_paint="2" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="-5" blkrcvd="0" eff="2"/>
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="0" blkrcvd="0" eff="0"/>
+      <statsbyprd prd="3" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="0" blkrcvd="0" eff="0"/>
+      <statsbyprd prd="4" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="0" blkrcvd="0" eff="0"/>
+      <season gp="30" fgm="60" fga="109" fgm3="0" fga3="0" ftm="32" fta="51" tp="152" blk="1" stl="12" ast="7" min="304" oreb="33" dreb="30" treb="63" pf="33" tf="" to="26" drawn="44" plusminus="-28" blkrcvd="12" eff="139"/>
+    </player>
+    <player uni="2" pno="9" code="2116362" name="Sanders,Kennedy" checkname="SANDERS,KENNEDY" class="" gp="1" gs="0" pos="G" oncourt="N">
+      <stats fgm="2" fga="6" fgm3="0" fga3="1" ftm="0" fta="0" tp="4" blk="0" stl="0" ast="0" min="9" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="1" drawn="0" plusminus="-2" blkrcvd="1" eff="-1" pts_paint="4" pts_fastb="0" pts_ch2="0" dq="0"/>
+      <statsbyprd prd="1" fgm="1" fga="3" fgm3="0" fga3="1" ftm="0" fta="0" tp="2" blk="0" stl="0" ast="0" min="4" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="2" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="-2" blkrcvd="0" eff="0"/>
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="0" blkrcvd="0" eff="0"/>
+      <statsbyprd prd="3" fgm="1" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="2" blk="0" stl="0" ast="0" min="2" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="1" pts_paint="2" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="2" blkrcvd="0" eff="1"/>
+      <statsbyprd prd="4" fgm="0" fga="2" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="2" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="-2" blkrcvd="1" eff="-2"/>
+      <season gp="28" fgm="50" fga="128" fgm3="13" fga3="43" ftm="25" fta="29" tp="138" blk="1" stl="23" ast="67" min="509" oreb="6" dreb="42" treb="48" pf="36" tf="" to="51" drawn="32" plusminus="28" blkrcvd="9" eff="131"/>
+    </player>
+    <player uni="4" pno="8" code="1908415" name="Nworie,JoJo" checkname="NWORIE,JOJO" class="" gp="0" gs="0" pos="C" oncourt="N">
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" drawn="0" plusminus="0" blkrcvd="0" eff="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="0"/>
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="0" blkrcvd="0" eff="0"/>
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="0" blkrcvd="0" eff="0"/>
+      <statsbyprd prd="3" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="0" blkrcvd="0" eff="0"/>
+      <statsbyprd prd="4" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="0" blkrcvd="0" eff="0"/>
+      <season gp="10" fgm="10" fga="20" fgm3="3" fga3="8" ftm="2" fta="3" tp="25" blk="6" stl="1" ast="1" min="48" oreb="3" dreb="8" treb="11" pf="8" tf="" to="6" drawn="4" plusminus="-25" blkrcvd="0" eff="23"/>
+    </player>
+    <player uni="8" pno="11" code="2283481" name="Powell,Erin" checkname="POWELL,ERIN" class="" gp="0" gs="0" pos="F" oncourt="N">
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" drawn="0" plusminus="0" blkrcvd="0" eff="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="0"/>
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="0" blkrcvd="0" eff="0"/>
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="0" blkrcvd="0" eff="0"/>
+      <statsbyprd prd="3" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="0" blkrcvd="0" eff="0"/>
+      <statsbyprd prd="4" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="0" blkrcvd="0" eff="0"/>
+      <season gp="19" fgm="12" fga="35" fgm3="3" fga3="13" ftm="13" fta="17" tp="40" blk="0" stl="2" ast="9" min="176" oreb="17" dreb="23" treb="40" pf="19" tf="" to="19" drawn="15" plusminus="3" blkrcvd="1" eff="40"/>
+    </player>
+    <player uni="9" pno="5" code="1612091" name="Smith,Sara-Rose" checkname="SMITH,SARA-ROSE" class="" gp="1" gs="0" pos="G" oncourt="N">
+      <stats fgm="1" fga="1" fgm3="1" fga3="1" ftm="2" fta="2" tp="5" blk="1" stl="1" ast="0" min="6" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" drawn="1" plusminus="5" blkrcvd="0" eff="8" pts_paint="0" pts_fastb="2" pts_ch2="0" dq="0"/>
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="0" blkrcvd="0" eff="0"/>
+      <statsbyprd prd="2" fgm="1" fga="1" fgm3="1" fga3="1" ftm="2" fta="2" tp="5" blk="0" stl="0" ast="0" min="4" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="2" pts_ch2="0" dq="" drawn="1" plusminus="3" blkrcvd="0" eff="6"/>
+      <statsbyprd prd="3" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="1" ast="0" min="2" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="2" blkrcvd="0" eff="1"/>
+      <statsbyprd prd="4" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="1" stl="0" ast="0" min="1" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="0" blkrcvd="0" eff="1"/>
+      <season gp="28" fgm="48" fga="117" fgm3="8" fga3="32" ftm="14" fta="19" tp="118" blk="6" stl="20" ast="33" min="519" oreb="45" dreb="111" treb="156" pf="52" tf="" to="44" drawn="24" plusminus="134" blkrcvd="10" eff="177"/>
+    </player>
+    <player uni="10" pno="12" code="2283482" name="Lagerlid,Lova" checkname="LAGERLID,LOVA" class="" gp="0" gs="0" pos="G" oncourt="N">
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" drawn="0" plusminus="0" blkrcvd="0" eff="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="0"/>
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="0" blkrcvd="0" eff="0"/>
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="0" blkrcvd="0" eff="0"/>
+      <statsbyprd prd="3" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="0" blkrcvd="0" eff="0"/>
+      <statsbyprd prd="4" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="0" blkrcvd="0" eff="0"/>
+      <season gp="3" fgm="0" fga="2" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="1" ast="0" min="9" oreb="0" dreb="2" treb="2" pf="0" tf="" to="1" drawn="0" plusminus="-1" blkrcvd="1" eff="-1"/>
+    </player>
+    <player uni="11" pno="1" code="1599975" name="Diew,Nyamer" checkname="DIEW,NYAMER" class="" gp="1" gs="0" pos="F" oncourt="Y">
+      <stats fgm="2" fga="8" fgm3="0" fga3="1" ftm="2" fta="3" tp="6" blk="0" stl="2" ast="2" min="25" oreb="0" dreb="2" treb="2" pf="4" tf="0" to="1" drawn="2" plusminus="-10" blkrcvd="2" eff="4" pts_paint="2" pts_fastb="1" pts_ch2="0" dq="0"/>
+      <statsbyprd prd="1" fgm="0" fga="4" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="1" min="4" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="-2" blkrcvd="2" eff="-3"/>
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="6" oreb="0" dreb="2" treb="2" pf="1" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="-5" blkrcvd="0" eff="2"/>
+      <statsbyprd prd="3" fgm="0" fga="1" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="1" min="5" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="-3" blkrcvd="0" eff="0"/>
+      <statsbyprd prd="4" fgm="2" fga="3" fgm3="0" fga3="0" ftm="2" fta="3" tp="6" blk="0" stl="2" ast="0" min="10" oreb="0" dreb="0" treb="0" pf="3" tf="0" to="1" pts_paint="2" pts_fastb="1" pts_ch2="0" dq="" drawn="2" plusminus="0" blkrcvd="0" eff="5"/>
+      <season gp="29" fgm="79" fga="171" fgm3="26" fga3="68" ftm="31" fta="39" tp="215" blk="18" stl="16" ast="27" min="690" oreb="23" dreb="64" treb="87" pf="53" tf="" to="34" drawn="45" plusminus="-51" blkrcvd="11" eff="210"/>
+    </player>
+    <player uni="12" pno="3" code="1603317" name="Garzon,Lior" checkname="GARZON,LIOR" class="" gp="1" gs="1" pos="F" oncourt="Y">
+      <stats fgm="4" fga="11" fgm3="3" fga3="9" ftm="4" fta="4" tp="15" blk="0" stl="1" ast="2" min="36" oreb="0" dreb="2" treb="2" pf="2" tf="0" to="2" drawn="3" plusminus="-10" blkrcvd="0" eff="11" pts_paint="2" pts_fastb="6" pts_ch2="2" dq="0"/>
+      <statsbyprd prd="1" fgm="2" fga="4" fgm3="2" fga3="3" ftm="0" fta="0" tp="6" blk="0" stl="0" ast="1" min="9" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="3" pts_ch2="0" dq="" drawn="0" plusminus="2" blkrcvd="0" eff="5"/>
+      <statsbyprd prd="2" fgm="1" fga="4" fgm3="0" fga3="3" ftm="0" fta="0" tp="2" blk="0" stl="1" ast="0" min="10" oreb="0" dreb="0" treb="0" pf="1" tf="0" to="2" pts_paint="2" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="-2" blkrcvd="0" eff="-2"/>
+      <statsbyprd prd="3" fgm="0" fga="1" fgm3="0" fga3="1" ftm="4" fta="4" tp="4" blk="0" stl="0" ast="0" min="8" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="2" dq="" drawn="3" plusminus="-10" blkrcvd="0" eff="4"/>
+      <statsbyprd prd="4" fgm="1" fga="2" fgm3="1" fga3="2" ftm="0" fta="0" tp="3" blk="0" stl="0" ast="1" min="9" oreb="0" dreb="1" treb="1" pf="1" tf="0" to="0" pts_paint="0" pts_fastb="3" pts_ch2="0" dq="" drawn="0" plusminus="0" blkrcvd="0" eff="4"/>
+      <season gp="32" fgm="129" fga="314" fgm3="50" fga3="157" ftm="45" fta="53" tp="353" blk="5" stl="25" ast="43" min="888" oreb="15" dreb="81" treb="96" pf="48" tf="" to="48" drawn="59" plusminus="168" blkrcvd="10" eff="282"/>
+    </player>
+    <player uni="14" pno="7" code="1906821" name="Masogayo,Jade" checkname="MASOGAYO,JADE" class="" gp="1" gs="1" pos="F" oncourt="Y">
+      <stats fgm="4" fga="6" fgm3="0" fga3="0" ftm="3" fta="6" tp="11" blk="1" stl="1" ast="1" min="32" oreb="1" dreb="4" treb="5" pf="2" tf="0" to="4" drawn="6" plusminus="-3" blkrcvd="0" eff="10" pts_paint="6" pts_fastb="0" pts_ch2="0" dq="0"/>
+      <statsbyprd prd="1" fgm="1" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="2" blk="0" stl="1" ast="1" min="6" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="1" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="1" plusminus="7" blkrcvd="0" eff="4"/>
+      <statsbyprd prd="2" fgm="1" fga="2" fgm3="0" fga3="0" ftm="0" fta="2" tp="2" blk="1" stl="0" ast="0" min="9" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" pts_paint="2" pts_fastb="0" pts_ch2="0" dq="" drawn="1" plusminus="0" blkrcvd="0" eff="1"/>
+      <statsbyprd prd="3" fgm="2" fga="2" fgm3="0" fga3="0" ftm="2" fta="2" tp="6" blk="0" stl="0" ast="0" min="8" oreb="1" dreb="0" treb="1" pf="2" tf="0" to="1" pts_paint="4" pts_fastb="0" pts_ch2="0" dq="" drawn="2" plusminus="-10" blkrcvd="0" eff="6"/>
+      <statsbyprd prd="4" fgm="0" fga="1" fgm3="0" fga3="0" ftm="1" fta="2" tp="1" blk="0" stl="0" ast="0" min="9" oreb="0" dreb="2" treb="2" pf="0" tf="0" to="2" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="2" plusminus="0" blkrcvd="0" eff="-1"/>
+      <season gp="32" fgm="165" fga="276" fgm3="0" fga3="1" ftm="71" fta="110" tp="401" blk="37" stl="19" ast="45" min="717" oreb="35" dreb="119" treb="154" pf="90" tf="" to="81" drawn="109" plusminus="108" blkrcvd="18" eff="425"/>
+    </player>
+    <player uni="15" pno="6" code="1698591" name="Wetta,Kindyll" checkname="WETTA,KINDYLL" class="" gp="1" gs="1" pos="G" oncourt="Y">
+      <stats fgm="1" fga="5" fgm3="1" fga3="2" ftm="1" fta="2" tp="4" blk="1" stl="1" ast="4" min="32" oreb="0" dreb="4" treb="4" pf="0" tf="0" to="2" drawn="1" plusminus="-8" blkrcvd="1" eff="7" pts_paint="0" pts_fastb="1" pts_ch2="0" dq="0"/>
+      <statsbyprd prd="1" fgm="0" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="1" ast="2" min="7" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="2" blkrcvd="1" eff="3"/>
+      <statsbyprd prd="2" fgm="0" fga="1" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="1" stl="0" ast="1" min="10" oreb="0" dreb="2" treb="2" pf="0" tf="0" to="1" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="-2" blkrcvd="0" eff="2"/>
+      <statsbyprd prd="3" fgm="1" fga="3" fgm3="1" fga3="1" ftm="0" fta="0" tp="3" blk="0" stl="0" ast="1" min="8" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="-10" blkrcvd="0" eff="2"/>
+      <statsbyprd prd="4" fgm="0" fga="0" fgm3="0" fga3="0" ftm="1" fta="2" tp="1" blk="0" stl="0" ast="0" min="8" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="1" pts_paint="0" pts_fastb="1" pts_ch2="0" dq="" drawn="1" plusminus="2" blkrcvd="0" eff="0"/>
+      <season gp="28" fgm="64" fga="145" fgm3="12" fga3="32" ftm="34" fta="47" tp="174" blk="1" stl="48" ast="147" min="708" oreb="20" dreb="70" treb="90" pf="76" tf="" to="93" drawn="44" plusminus="131" blkrcvd="13" eff="228"/>
+    </player>
+    <player uni="17" pno="13" code="2283485" name="Betson,Tabitha" checkname="BETSON,TABITHA" class="" gp="1" gs="1" pos="F" oncourt="Y">
+      <stats fgm="1" fga="5" fgm3="0" fga3="4" ftm="2" fta="2" tp="4" blk="0" stl="0" ast="3" min="25" oreb="1" dreb="5" treb="6" pf="2" tf="0" to="4" drawn="2" plusminus="1" blkrcvd="0" eff="5" pts_paint="2" pts_fastb="0" pts_ch2="2" dq="0"/>
+      <statsbyprd prd="1" fgm="1" fga="3" fgm3="0" fga3="2" ftm="0" fta="0" tp="2" blk="0" stl="0" ast="1" min="7" oreb="1" dreb="1" treb="2" pf="1" tf="0" to="0" pts_paint="2" pts_fastb="0" pts_ch2="2" dq="" drawn="1" plusminus="2" blkrcvd="0" eff="3"/>
+      <statsbyprd prd="2" fgm="0" fga="1" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="3" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="1" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="-2" blkrcvd="0" eff="-2"/>
+      <statsbyprd prd="3" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="1" min="5" oreb="0" dreb="3" treb="3" pf="0" tf="0" to="3" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="1" blkrcvd="0" eff="1"/>
+      <statsbyprd prd="4" fgm="0" fga="1" fgm3="0" fga3="1" ftm="2" fta="2" tp="2" blk="0" stl="0" ast="1" min="10" oreb="0" dreb="1" treb="1" pf="1" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="1" plusminus="0" blkrcvd="0" eff="3"/>
+      <season gp="29" fgm="64" fga="144" fgm3="18" fga3="57" ftm="13" fta="20" tp="159" blk="10" stl="16" ast="36" min="517" oreb="31" dreb="78" treb="109" pf="43" tf="" to="49" drawn="20" plusminus="42" blkrcvd="10" eff="161"/>
+    </player>
+    <player uni="21" pno="4" code="1611561" name="Teder,Johanna" checkname="TEDER,JOHANNA" class="" gp="1" gs="1" pos="G" oncourt="N">
+      <stats fgm="1" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="2" blk="0" stl="0" ast="2" min="17" oreb="0" dreb="2" treb="2" pf="1" tf="0" to="1" drawn="1" plusminus="3" blkrcvd="0" eff="5" pts_paint="2" pts_fastb="0" pts_ch2="0" dq="0"/>
+      <statsbyprd prd="1" fgm="1" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="2" blk="0" stl="0" ast="0" min="6" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" pts_paint="2" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="3" blkrcvd="0" eff="3"/>
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="1" min="4" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="1" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="1" plusminus="3" blkrcvd="0" eff="1"/>
+      <statsbyprd prd="3" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="1" min="8" oreb="0" dreb="0" treb="0" pf="1" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="-3" blkrcvd="0" eff="1"/>
+      <statsbyprd prd="4" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="1" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="0" blkrcvd="0" eff="0"/>
+      <season gp="33" fgm="63" fga="134" fgm3="24" fga3="64" ftm="21" fta="33" tp="171" blk="3" stl="33" ast="58" min="659" oreb="12" dreb="41" treb="53" pf="58" tf="" to="53" drawn="40" plusminus="82" blkrcvd="6" eff="158"/>
+    </player>
+    <player uni="24" pno="14" code="2283486" name="Oliver,Grace" checkname="OLIVER,GRACE" class="" gp="1" gs="0" pos="F" oncourt="N">
+      <stats fgm="1" fga="2" fgm3="0" fga3="0" ftm="0" fta="0" tp="2" blk="0" stl="1" ast="0" min="14" oreb="0" dreb="2" treb="2" pf="0" tf="0" to="0" drawn="0" plusminus="-16" blkrcvd="0" eff="4" pts_paint="2" pts_fastb="0" pts_ch2="0" dq="0"/>
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="1" ast="0" min="4" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="-2" blkrcvd="0" eff="2"/>
+      <statsbyprd prd="2" fgm="0" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="5" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="-5" blkrcvd="0" eff="-1"/>
+      <statsbyprd prd="3" fgm="1" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="2" blk="0" stl="0" ast="0" min="5" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" pts_paint="2" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="-9" blkrcvd="0" eff="3"/>
+      <statsbyprd prd="4" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" pts_paint="0" pts_fastb="0" pts_ch2="0" dq="" drawn="0" plusminus="0" blkrcvd="0" eff="0"/>
+      <season gp="31" fgm="46" fga="88" fgm3="15" fga3="38" ftm="11" fta="18" tp="118" blk="4" stl="14" ast="28" min="438" oreb="35" dreb="68" treb="103" pf="42" tf="" to="33" drawn="23" plusminus="32" blkrcvd="5" eff="161"/>
+    </player>
+    <player uni="TM" code="TM" name="TEAM" checkname="TEAM" class="" gp="1">
+      <stats oreb="2" dreb="4" treb="6" pf="0" tf="0" to="0" dq="0"/>
+      <statsbyprd prd="1" oreb="2" dreb="0" treb="2" pf="0" tf="0" to="0" dq="0"/>
+      <statsbyprd prd="2" oreb="0" dreb="2" treb="2" pf="0" tf="0" to="0" dq="0"/>
+      <statsbyprd prd="3" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" dq="0"/>
+      <statsbyprd prd="4" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" dq="0"/>
+    </player>
+  </team>
+  <byprdsummaries>
+    <byprdsummary prd="1">
+      <summary vh="V" score="15" fgm="6" fga="10" fgm3="2" fga3="4" ftm="1" fta="2" blk="3" stl="1" ast="5" oreb="0" dreb="7" treb="7" pf="2" tf="0" to="5" fgpct="60" fg3pct="50" ftpct="50"/>
+      <special vh="V" pts_to="5" pts_ch2="0" pts_paint="6" pts_fastb="5" pts_bench="5" ties="" leads="" poss_count="" poss_time="" score_count="" score_time="" lead_time="1488" tied_time="-" large_lead="12" large_lead_t=""/>
+      <summary vh="H" score="16" fgm="7" fga="18" fgm3="2" fga3="6" ftm="0" fta="0" blk="0" stl="3" ast="6" oreb="4" dreb="5" treb="9" pf="1" tf="0" to="2" fgpct="38.9" fg3pct="33.3" ftpct="0"/>
+      <special vh="H" pts_to="8" pts_ch2="2" pts_paint="8" pts_fastb="3" pts_bench="4" ties="" leads="" poss_count="" poss_time="" score_count="" score_time="" lead_time="616" tied_time="-" large_lead="8" large_lead_t=""/>
+    </byprdsummary>
+    <byprdsummary prd="2">
+      <summary vh="V" score="11" fgm="5" fga="16" fgm3="1" fga3="5" ftm="0" fta="0" blk="0" stl="2" ast="3" oreb="2" dreb="8" treb="10" pf="3" tf="0" to="2" fgpct="31.3" fg3pct="20" ftpct="0"/>
+      <special vh="V" pts_to="4" pts_ch2="2" pts_paint="6" pts_fastb="4" pts_bench="0" ties="" leads="" poss_count="" poss_time="" score_count="" score_time="" lead_time="1488" tied_time="-" large_lead="12" large_lead_t=""/>
+      <summary vh="H" score="9" fgm="3" fga="10" fgm3="1" fga3="6" ftm="2" fta="4" blk="2" stl="1" ast="2" oreb="0" dreb="9" treb="9" pf="2" tf="0" to="5" fgpct="30" fg3pct="16.7" ftpct="50"/>
+      <special vh="H" pts_to="0" pts_ch2="0" pts_paint="4" pts_fastb="2" pts_bench="5" ties="" leads="" poss_count="" poss_time="" score_count="" score_time="" lead_time="616" tied_time="-" large_lead="8" large_lead_t=""/>
+    </byprdsummary>
+    <byprdsummary prd="3">
+      <summary vh="V" score="25" fgm="9" fga="17" fgm3="5" fga3="8" ftm="2" fta="2" blk="0" stl="4" ast="6" oreb="2" dreb="3" treb="5" pf="5" tf="0" to="1" fgpct="52.9" fg3pct="62.5" ftpct="100"/>
+      <special vh="V" pts_to="4" pts_ch2="6" pts_paint="0" pts_fastb="3" pts_bench="3" ties="" leads="" poss_count="" poss_time="" score_count="" score_time="" lead_time="1488" tied_time="-" large_lead="12" large_lead_t=""/>
+      <summary vh="H" score="17" fgm="5" fga="9" fgm3="1" fga3="3" ftm="6" fta="6" blk="0" stl="1" ast="4" oreb="1" dreb="6" treb="7" pf="3" tf="0" to="5" fgpct="55.6" fg3pct="33.3" ftpct="100"/>
+      <special vh="H" pts_to="0" pts_ch2="2" pts_paint="8" pts_fastb="0" pts_bench="4" ties="" leads="" poss_count="" poss_time="" score_count="" score_time="" lead_time="616" tied_time="-" large_lead="8" large_lead_t=""/>
+    </byprdsummary>
+    <byprdsummary prd="4">
+      <summary vh="V" score="13" fgm="5" fga="14" fgm3="1" fga3="4" ftm="2" fta="2" blk="1" stl="4" ast="4" oreb="3" dreb="6" treb="9" pf="6" tf="0" to="4" fgpct="35.7" fg3pct="25" ftpct="100"/>
+      <special vh="V" pts_to="2" pts_ch2="0" pts_paint="8" pts_fastb="2" pts_bench="5" ties="" leads="" poss_count="" poss_time="" score_count="" score_time="" lead_time="1488" tied_time="-" large_lead="12" large_lead_t=""/>
+      <summary vh="H" score="13" fgm="3" fga="9" fgm3="1" fga3="3" ftm="6" fta="9" blk="1" stl="2" ast="2" oreb="0" dreb="6" treb="6" pf="5" tf="0" to="4" fgpct="33.3" fg3pct="33.3" ftpct="66.7"/>
+      <special vh="H" pts_to="3" pts_ch2="0" pts_paint="2" pts_fastb="5" pts_bench="6" ties="" leads="" poss_count="" poss_time="" score_count="" score_time="" lead_time="616" tied_time="-" large_lead="8" large_lead_t=""/>
+    </byprdsummary>
+  </byprdsummaries>
+  <plays format="tokens">
+    <period number="1" time="10:00" periodtype="REGULAR">
+      <summary vh="V" score="15" fgm="6" fga="10" fgm3="2" fga3="4" ftm="1" fta="2" blk="3" stl="1" ast="5" oreb="0" dreb="7" treb="7" pf="2" tf="0" to="5" fgpct="60" fg3pct="50" ftpct="50"/>
+      <special vh="V" pts_to="5" pts_ch2="0" pts_paint="6" pts_fastb="5" pts_bench="5" ties="" leads="" poss_count="" poss_time="" score_count="" score_time="" lead_time="1488" tied_time="-" large_lead="12" large_lead_t=""/>
+      <summary vh="H" score="16" fgm="7" fga="18" fgm3="2" fga3="6" ftm="0" fta="0" blk="0" stl="3" ast="6" oreb="4" dreb="5" treb="9" pf="1" tf="0" to="2" fgpct="38.9" fg3pct="33.3" ftpct="0"/>
+      <special vh="H" pts_to="8" pts_ch2="2" pts_paint="8" pts_fastb="3" pts_bench="4" ties="" leads="" poss_count="" poss_time="" score_count="" score_time="" lead_time="616" tied_time="-" large_lead="8" large_lead_t=""/>
+      <comment team="GON" vh="V" time="09:59" checkname="TEAM" text="Jumpball won by GON"/>
+      <play vh="V" team="GON" time="09:38" uni="4" checkname="O'CONNOR,CLAIRE" action="TURNOVER" type="OUTOFBOUNDS"/>
+      <play vh="H" team="COL" time="09:23" uni="12" checkname="GARZON,LIOR" hscore="3" vscore="0" action="GOOD" type="3PTR" desc="" to="Y"/>
+      <play vh="H" team="COL" time="09:23" uni="14" checkname="MASOGAYO,JADE" action="ASSIST"/>
+      <play vh="V" team="GON" time="09:08" uni="4" checkname="O'CONNOR,CLAIRE" action="MISS" type="3PTR" desc=""/>
+      <play vh="H" team="COL" time="09:05" uni="15" checkname="WETTA,KINDYLL" action="REBOUND" type="DEF"/>
+      <play vh="H" team="COL" time="08:58" uni="21" checkname="TEDER,JOHANNA" hscore="5" vscore="0" action="GOOD" type="LAYUP" desc="DRIVING"/>
+      <play vh="H" team="COL" time="08:58" uni="15" checkname="WETTA,KINDYLL" action="ASSIST"/>
+      <play vh="V" team="GON" time="08:41" uni="15" checkname="EJIM,YVONNE" hscore="5" vscore="2" action="GOOD" type="LAYUP"/>
+      <play vh="V" team="GON" time="08:41" uni="11" checkname="TURNER,ALLIE" action="ASSIST"/>
+      <play vh="H" team="COL" time="08:27" uni="15" checkname="WETTA,KINDYLL" action="MISS" type="LAYUP" blocked="Y"/>
+      <play vh="V" team="GON" time="08:27" uni="15" checkname="EJIM,YVONNE" action="BLOCK"/>
+      <play vh="H" team="COL" time="08:27" checkname="TEAM" action="REBOUND" type="OFF" uni="TM"/>
+      <play vh="H" team="COL" time="08:25" uni="12" checkname="GARZON,LIOR" action="MISS" type="JUMPER" desc="PULLUP" ch2="N"/>
+      <play vh="V" team="GON" time="08:22" uni="4" checkname="O'CONNOR,CLAIRE" action="REBOUND" type="DEF"/>
+      <play vh="V" team="GON" time="08:04" uni="15" checkname="EJIM,YVONNE" action="MISS" type="JUMPER"/>
+      <play vh="H" team="COL" time="08:02" uni="17" checkname="BETSON,TABITHA" action="REBOUND" type="DEF"/>
+      <play vh="H" team="COL" time="07:44" uni="14" checkname="MASOGAYO,JADE" hscore="7" vscore="2" action="GOOD" type="JUMPER"/>
+      <play vh="H" team="COL" time="07:44" uni="17" checkname="BETSON,TABITHA" action="ASSIST"/>
+      <play vh="V" team="GON" time="07:26" uni="5" checkname="HUIJBENS,MAUD" action="TURNOVER" type="BADPASS"/>
+      <play vh="H" team="COL" time="07:26" uni="15" checkname="WETTA,KINDYLL" action="STEAL"/>
+      <play vh="H" team="COL" time="07:18" uni="12" checkname="GARZON,LIOR" hscore="10" vscore="2" action="GOOD" type="3PTR" desc="" to="Y" fastb="Y"/>
+      <play vh="H" team="COL" time="07:18" uni="15" checkname="WETTA,KINDYLL" action="ASSIST"/>
+      <play vh="V" team="GON" time="07:17" checkname="TEAM" action="TIMEOUT" type="30SEC"/>
+      <play time="07:17" checkname="TEAM" action="TIMEOUT" type="MEDIA"/>
+      <play vh="H" team="COL" time="07:17" uni="14" checkname="MASOGAYO,JADE" action="SUB" type="OUT"/>
+      <play vh="H" team="COL" time="07:17" uni="1" checkname="JOHNSON,AYIANNA" action="SUB" type="IN"/>
+      <play vh="V" team="GON" time="07:17" uni="4" checkname="O'CONNOR,CLAIRE" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="07:17" uni="10" checkname="DALTON,TAYLA" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="07:17" uni="15" checkname="EJIM,YVONNE" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="07:17" uni="0" checkname="LITTLE,ESTHER" action="SUB" type="IN"/>
+      <play vh="V" team="GON" time="07:17" uni="8" checkname="BETTENCOURT,INES" action="SUB" type="IN"/>
+      <play vh="V" team="GON" time="07:17" uni="35" checkname="SALENBIEN,BREE" action="SUB" type="IN"/>
+      <play vh="V" team="GON" time="07:06" uni="11" checkname="TURNER,ALLIE" hscore="10" vscore="4" action="GOOD" type="JUMPER"/>
+      <play vh="V" team="GON" time="07:06" uni="5" checkname="HUIJBENS,MAUD" action="ASSIST"/>
+      <play vh="H" team="COL" time="06:48" uni="12" checkname="GARZON,LIOR" action="MISS" type="3PTR" desc=""/>
+      <play vh="H" team="COL" time="06:45" uni="17" checkname="BETSON,TABITHA" action="REBOUND" type="OFF"/>
+      <play vh="H" team="COL" time="06:45" uni="17" checkname="BETSON,TABITHA" hscore="12" vscore="4" action="GOOD" type="JUMPER" desc="TIPINLAYUP" ch2="Y"/>
+      <play vh="V" team="GON" time="06:20" uni="11" checkname="TURNER,ALLIE" hscore="12" vscore="6" action="GOOD" type="LAYUP" desc="DRIVING" paint="Y"/>
+      <play vh="H" team="COL" time="06:02" uni="17" checkname="BETSON,TABITHA" action="MISS" type="3PTR" desc=""/>
+      <play vh="V" team="GON" time="05:59" uni="11" checkname="TURNER,ALLIE" action="REBOUND" type="DEF"/>
+      <play vh="V" team="GON" time="05:55" uni="8" checkname="BETTENCOURT,INES" hscore="12" vscore="9" action="GOOD" type="3PTR" desc="" fastb="Y"/>
+      <play vh="V" team="GON" time="05:55" uni="11" checkname="TURNER,ALLIE" action="ASSIST"/>
+      <play vh="H" team="COL" time="05:33" uni="1" checkname="JOHNSON,AYIANNA" hscore="14" vscore="9" action="GOOD" type="LAYUP"/>
+      <play vh="H" team="COL" time="05:33" uni="12" checkname="GARZON,LIOR" action="ASSIST"/>
+      <play vh="V" team="GON" time="05:04" uni="5" checkname="HUIJBENS,MAUD" action="MISS" type="3PTR" desc=""/>
+      <play vh="H" team="COL" time="05:01" uni="21" checkname="TEDER,JOHANNA" action="REBOUND" type="DEF"/>
+      <play vh="H" team="COL" time="04:54" uni="17" checkname="BETSON,TABITHA" action="MISS" type="3PTR" desc=""/>
+      <play vh="H" team="COL" time="04:51" uni="1" checkname="JOHNSON,AYIANNA" action="REBOUND" type="OFF"/>
+      <play vh="H" team="COL" time="04:47" uni="1" checkname="JOHNSON,AYIANNA" action="TURNOVER" type="BADPASS"/>
+      <play vh="V" team="GON" time="04:47" uni="35" checkname="SALENBIEN,BREE" action="STEAL"/>
+      <play vh="V" team="GON" time="04:40" uni="0" checkname="LITTLE,ESTHER" hscore="14" vscore="11" action="GOOD" type="LAYUP" to="Y" fastb="Y"/>
+      <play vh="V" team="GON" time="04:40" uni="8" checkname="BETTENCOURT,INES" action="ASSIST"/>
+      <play vh="V" team="GON" time="04:24" uni="35" checkname="SALENBIEN,BREE" action="FOUL" type="PERSONAL" drawnby="BETSON,TABITHA" drawnuni="17"/>
+      <play vh="H" team="COL" time="04:24" uni="1" checkname="JOHNSON,AYIANNA" action="SUB" type="OUT"/>
+      <play vh="H" team="COL" time="04:24" uni="15" checkname="WETTA,KINDYLL" action="SUB" type="OUT"/>
+      <play vh="H" team="COL" time="04:24" uni="17" checkname="BETSON,TABITHA" action="SUB" type="OUT"/>
+      <play vh="H" team="COL" time="04:24" uni="21" checkname="TEDER,JOHANNA" action="SUB" type="OUT"/>
+      <play vh="H" team="COL" time="04:24" uni="2" checkname="SANDERS,KENNEDY" action="SUB" type="IN"/>
+      <play vh="H" team="COL" time="04:24" uni="11" checkname="DIEW,NYAMER" action="SUB" type="IN"/>
+      <play vh="H" team="COL" time="04:24" uni="14" checkname="MASOGAYO,JADE" action="SUB" type="IN"/>
+      <play vh="H" team="COL" time="04:24" uni="24" checkname="OLIVER,GRACE" action="SUB" type="IN"/>
+      <play vh="V" team="GON" time="04:24" uni="5" checkname="HUIJBENS,MAUD" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="04:24" uni="11" checkname="TURNER,ALLIE" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="04:24" uni="10" checkname="DALTON,TAYLA" action="SUB" type="IN"/>
+      <play vh="V" team="GON" time="04:24" uni="15" checkname="EJIM,YVONNE" action="SUB" type="IN"/>
+      <play vh="H" team="COL" time="04:10" uni="14" checkname="MASOGAYO,JADE" action="TURNOVER" type="BADPASS"/>
+      <play vh="V" team="GON" time="04:10" uni="35" checkname="SALENBIEN,BREE" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="04:10" uni="12" checkname="OSAROBO,CHRISTABEL" action="SUB" type="IN"/>
+      <play vh="V" team="GON" time="03:49" uni="10" checkname="DALTON,TAYLA" hscore="14" vscore="14" action="GOOD" type="3PTR" desc="" to="Y"/>
+      <play vh="V" team="GON" time="03:49" uni="12" checkname="OSAROBO,CHRISTABEL" action="ASSIST"/>
+      <play vh="H" team="COL" time="03:21" uni="11" checkname="DIEW,NYAMER" action="MISS" type="LAYUP"/>
+      <play vh="V" team="GON" time="03:18" uni="0" checkname="LITTLE,ESTHER" action="REBOUND" type="DEF"/>
+      <play vh="V" team="GON" time="02:59" uni="12" checkname="OSAROBO,CHRISTABEL" action="TURNOVER" type="BADPASS"/>
+      <play vh="H" team="COL" time="02:59" uni="14" checkname="MASOGAYO,JADE" action="STEAL"/>
+      <play vh="H" team="COL" time="02:42" uni="11" checkname="DIEW,NYAMER" action="MISS" type="LAYUP" to="N" blocked="Y"/>
+      <play vh="V" team="GON" time="02:42" uni="8" checkname="BETTENCOURT,INES" action="BLOCK"/>
+      <play vh="H" team="COL" time="02:41" checkname="TEAM" action="REBOUND" type="OFF" uni="TM"/>
+      <play vh="V" team="GON" time="02:41" uni="0" checkname="LITTLE,ESTHER" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="02:41" uni="8" checkname="BETTENCOURT,INES" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="02:41" uni="12" checkname="OSAROBO,CHRISTABEL" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="02:41" uni="11" checkname="TURNER,ALLIE" action="SUB" type="IN"/>
+      <play vh="V" team="GON" time="02:41" uni="22" checkname="DALAN,MCKYNNLIE" action="SUB" type="IN"/>
+      <play vh="V" team="GON" time="02:41" uni="4" checkname="O'CONNOR,CLAIRE" action="SUB" type="IN"/>
+      <play vh="H" team="COL" time="02:33" uni="2" checkname="SANDERS,KENNEDY" action="MISS" type="JUMPER" ch2="N" to="N" paint="N"/>
+      <play vh="V" team="GON" time="02:30" uni="15" checkname="EJIM,YVONNE" action="REBOUND" type="DEF"/>
+      <play vh="V" team="GON" time="02:23" uni="10" checkname="DALTON,TAYLA" action="TURNOVER" type="LOSTBALL"/>
+      <play vh="H" team="COL" time="02:12" uni="2" checkname="SANDERS,KENNEDY" hscore="16" vscore="14" action="GOOD" type="LAYUP" to="Y"/>
+      <play vh="H" team="COL" time="02:12" uni="11" checkname="DIEW,NYAMER" action="ASSIST"/>
+      <play vh="V" team="GON" time="01:46" uni="15" checkname="EJIM,YVONNE" action="MISS" type="LAYUP"/>
+      <play vh="H" team="COL" time="01:45" uni="14" checkname="MASOGAYO,JADE" action="REBOUND" type="DEF"/>
+      <play vh="V" team="GON" time="01:44" uni="22" checkname="DALAN,MCKYNNLIE" action="FOUL" type="PERSONAL" drawnby="MASOGAYO,JADE" drawnuni="14"/>
+      <play vh="V" team="GON" time="01:44" uni="22" checkname="DALAN,MCKYNNLIE" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="01:44" uni="4" checkname="O'CONNOR,CLAIRE" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="01:44" uni="0" checkname="LITTLE,ESTHER" action="SUB" type="IN"/>
+      <play vh="V" team="GON" time="01:44" uni="5" checkname="HUIJBENS,MAUD" action="SUB" type="IN"/>
+      <play vh="H" team="COL" time="01:17" uni="2" checkname="SANDERS,KENNEDY" action="MISS" type="3PTR" desc=""/>
+      <play vh="V" team="GON" time="01:15" checkname="TEAM" action="REBOUND" type="DEF" uni="TM"/>
+      <play vh="H" team="COL" time="01:15" uni="14" checkname="MASOGAYO,JADE" action="SUB" type="OUT"/>
+      <play vh="H" team="COL" time="01:15" uni="17" checkname="BETSON,TABITHA" action="SUB" type="IN"/>
+      <play vh="V" team="GON" time="01:15" uni="0" checkname="LITTLE,ESTHER" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="01:15" uni="4" checkname="O'CONNOR,CLAIRE" action="SUB" type="IN"/>
+      <play vh="H" team="COL" time="01:02" uni="17" checkname="BETSON,TABITHA" action="FOUL" type="PERSONAL" ft="2" qualifiers="SHOOTING" drawnby="EJIM,YVONNE" drawnuni="15"/>
+      <play vh="H" team="COL" time="01:02" uni="12" checkname="GARZON,LIOR" action="SUB" type="OUT"/>
+      <play vh="H" team="COL" time="01:02" uni="15" checkname="WETTA,KINDYLL" action="SUB" type="IN"/>
+      <play vh="V" team="GON" time="01:02" uni="15" checkname="EJIM,YVONNE" hscore="16" vscore="15" action="GOOD" type="FT" seq="1OF2"/>
+      <play vh="V" team="GON" time="01:02" uni="15" checkname="EJIM,YVONNE" action="MISS" type="FT" seq="2OF2"/>
+      <play vh="H" team="COL" time="00:59" uni="24" checkname="OLIVER,GRACE" action="REBOUND" type="DEF"/>
+      <play vh="H" team="COL" time="00:34" uni="11" checkname="DIEW,NYAMER" action="MISS" type="LAYUP" paint="N"/>
+      <play vh="V" team="GON" time="00:31" uni="15" checkname="EJIM,YVONNE" action="REBOUND" type="DEF"/>
+      <play vh="V" team="GON" time="00:26" uni="11" checkname="TURNER,ALLIE" action="TURNOVER" type="BADPASS"/>
+      <play vh="H" team="COL" time="00:26" uni="24" checkname="OLIVER,GRACE" action="STEAL"/>
+      <play vh="H" team="COL" time="00:01" uni="11" checkname="DIEW,NYAMER" action="MISS" type="JUMPER" to="N" blocked="Y"/>
+      <play vh="V" team="GON" time="00:01" uni="15" checkname="EJIM,YVONNE" action="BLOCK"/>
+      <play vh="V" team="GON" time="00:00" uni="11" checkname="TURNER,ALLIE" action="REBOUND" type="DEF"/>
+      <clock time="00:00"/>
+    </period>
+    <period number="2" time="10:00" periodtype="REGULAR">
+      <summary vh="V" score="11" fgm="5" fga="16" fgm3="1" fga3="5" ftm="0" fta="0" blk="0" stl="2" ast="3" oreb="2" dreb="8" treb="10" pf="3" tf="0" to="2" fgpct="31.3" fg3pct="20" ftpct="0"/>
+      <special vh="V" pts_to="4" pts_ch2="2" pts_paint="6" pts_fastb="4" pts_bench="0" ties="" leads="" poss_count="" poss_time="" score_count="" score_time="" lead_time="1488" tied_time="-" large_lead="12" large_lead_t=""/>
+      <summary vh="H" score="9" fgm="3" fga="10" fgm3="1" fga3="6" ftm="2" fta="4" blk="2" stl="1" ast="2" oreb="0" dreb="9" treb="9" pf="2" tf="0" to="5" fgpct="30" fg3pct="16.7" ftpct="50"/>
+      <special vh="H" pts_to="0" pts_ch2="0" pts_paint="4" pts_fastb="2" pts_bench="5" ties="" leads="" poss_count="" poss_time="" score_count="" score_time="" lead_time="616" tied_time="-" large_lead="8" large_lead_t=""/>
+      <play vh="H" team="COL" time="10:00" uni="2" checkname="SANDERS,KENNEDY" action="SUB" type="OUT"/>
+      <play vh="H" team="COL" time="10:00" uni="12" checkname="GARZON,LIOR" action="SUB" type="IN"/>
+      <play vh="H" team="COL" time="09:44" uni="17" checkname="BETSON,TABITHA" action="TURNOVER" type="TRAVEL"/>
+      <play vh="V" team="GON" time="09:24" uni="5" checkname="HUIJBENS,MAUD" action="TURNOVER" type="BADPASS"/>
+      <play vh="H" team="COL" time="09:24" uni="12" checkname="GARZON,LIOR" action="STEAL"/>
+      <play vh="H" team="COL" time="09:19" uni="12" checkname="GARZON,LIOR" action="MISS" type="3PTR" desc="" to="N"/>
+      <play vh="V" team="GON" time="09:16" uni="11" checkname="TURNER,ALLIE" action="REBOUND" type="DEF"/>
+      <play vh="V" team="GON" time="08:55" uni="15" checkname="EJIM,YVONNE" hscore="16" vscore="17" action="GOOD" type="JUMPER"/>
+      <play vh="V" team="GON" time="08:55" uni="4" checkname="O'CONNOR,CLAIRE" action="ASSIST"/>
+      <play vh="H" team="COL" time="08:30" uni="12" checkname="GARZON,LIOR" action="TURNOVER" type="BADPASS"/>
+      <play vh="H" team="COL" time="08:30" uni="17" checkname="BETSON,TABITHA" action="SUB" type="OUT"/>
+      <play vh="H" team="COL" time="08:30" uni="24" checkname="OLIVER,GRACE" action="SUB" type="OUT"/>
+      <play vh="H" team="COL" time="08:30" uni="9" checkname="SMITH,SARA-ROSE" action="SUB" type="IN"/>
+      <play vh="H" team="COL" time="08:30" uni="14" checkname="MASOGAYO,JADE" action="SUB" type="IN"/>
+      <play vh="V" team="GON" time="08:18" uni="4" checkname="O'CONNOR,CLAIRE" action="MISS" type="3PTR" desc="" to="N"/>
+      <play vh="V" team="GON" time="08:13" uni="5" checkname="HUIJBENS,MAUD" hscore="16" vscore="19" action="GOOD" type="JUMPER" desc="TIPINLAYUP" ch2="Y" to="Y"/>
+      <play vh="V" team="GON" time="08:09" uni="5" checkname="HUIJBENS,MAUD" action="REBOUND" type="OFF"/>
+      <play vh="H" team="COL" time="07:54" uni="15" checkname="WETTA,KINDYLL" action="MISS" type="3PTR" desc=""/>
+      <play vh="V" team="GON" time="07:51" uni="15" checkname="EJIM,YVONNE" action="REBOUND" type="DEF"/>
+      <play vh="V" team="GON" time="07:46" uni="4" checkname="O'CONNOR,CLAIRE" action="MISS" type="LAYUP" blocked="Y"/>
+      <play vh="H" team="COL" time="07:46" uni="14" checkname="MASOGAYO,JADE" action="BLOCK"/>
+      <play vh="H" team="COL" time="07:44" checkname="TEAM" action="REBOUND" type="DEF" uni="TM"/>
+      <play vh="H" team="COL" time="07:43" uni="11" checkname="DIEW,NYAMER" action="SUB" type="OUT"/>
+      <play vh="H" team="COL" time="07:43" uni="21" checkname="TEDER,JOHANNA" action="SUB" type="IN"/>
+      <play vh="V" team="GON" time="07:43" uni="4" checkname="O'CONNOR,CLAIRE" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="07:43" uni="5" checkname="HUIJBENS,MAUD" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="07:43" uni="0" checkname="LITTLE,ESTHER" action="SUB" type="IN"/>
+      <play vh="V" team="GON" time="07:43" uni="35" checkname="SALENBIEN,BREE" action="SUB" type="IN"/>
+      <play vh="H" team="COL" time="07:35" uni="21" checkname="TEDER,JOHANNA" action="TURNOVER" type="BADPASS"/>
+      <play vh="V" team="GON" time="07:35" uni="15" checkname="EJIM,YVONNE" action="STEAL"/>
+      <play vh="V" team="GON" time="07:31" uni="15" checkname="EJIM,YVONNE" hscore="16" vscore="21" action="GOOD" type="LAYUP" desc="DRIVING" to="Y" fastb="Y"/>
+      <play vh="H" team="COL" time="07:30" checkname="TEAM" action="TIMEOUT" type="30SEC"/>
+      <play time="07:30" checkname="TEAM" action="TIMEOUT" type="MEDIA"/>
+      <play vh="V" team="GON" time="07:15" uni="15" checkname="EJIM,YVONNE" action="FOUL" type="PERSONAL" ft="2" qualifiers="SHOOTING" drawnby="MASOGAYO,JADE" drawnuni="14"/>
+      <play vh="H" team="COL" time="07:15" uni="14" checkname="MASOGAYO,JADE" action="MISS" type="FT" seq="1OF2"/>
+      <play vh="H" team="COL" time="07:15" checkname="TEAM" action="REBOUND" type="OFF" uni="TM" desc="DEADBALL"/>
+      <play vh="H" team="COL" time="07:15" uni="14" checkname="MASOGAYO,JADE" action="MISS" type="FT" seq="2OF2"/>
+      <play vh="V" team="GON" time="07:13" uni="15" checkname="EJIM,YVONNE" action="REBOUND" type="DEF"/>
+      <play vh="V" team="GON" time="06:46" uni="15" checkname="EJIM,YVONNE" action="MISS" type="3PTR" desc=""/>
+      <play vh="H" team="COL" time="06:43" uni="15" checkname="WETTA,KINDYLL" action="REBOUND" type="DEF"/>
+      <play vh="H" team="COL" time="06:18" uni="9" checkname="SMITH,SARA-ROSE" hscore="19" vscore="21" action="GOOD" type="3PTR" desc=""/>
+      <play vh="H" team="COL" time="06:18" uni="21" checkname="TEDER,JOHANNA" action="ASSIST"/>
+      <play vh="V" team="GON" time="05:47" uni="11" checkname="TURNER,ALLIE" action="MISS" type="JUMPER" desc="PULLUP"/>
+      <play vh="H" team="COL" time="05:44" uni="21" checkname="TEDER,JOHANNA" action="REBOUND" type="DEF"/>
+      <play vh="V" team="GON" time="05:39" uni="11" checkname="TURNER,ALLIE" action="FOUL" type="PERSONAL" ft="2" qualifiers="SHOOTING" drawnby="SMITH,SARA-ROSE" drawnuni="9"/>
+      <play vh="V" team="GON" time="05:39" uni="10" checkname="DALTON,TAYLA" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="05:39" uni="15" checkname="EJIM,YVONNE" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="05:39" uni="5" checkname="HUIJBENS,MAUD" action="SUB" type="IN"/>
+      <play vh="V" team="GON" time="05:39" uni="8" checkname="BETTENCOURT,INES" action="SUB" type="IN"/>
+      <play vh="H" team="COL" time="05:39" uni="9" checkname="SMITH,SARA-ROSE" hscore="20" vscore="21" action="GOOD" type="FT" seq="1OF2" fastb="Y"/>
+      <play vh="H" team="COL" time="05:39" uni="9" checkname="SMITH,SARA-ROSE" hscore="21" vscore="21" action="GOOD" type="FT" seq="2OF2" fastb="Y"/>
+      <play vh="V" team="GON" time="05:22" uni="8" checkname="BETTENCOURT,INES" action="MISS" type="JUMPER"/>
+      <play vh="H" team="COL" time="05:19" uni="9" checkname="SMITH,SARA-ROSE" action="REBOUND" type="DEF"/>
+      <play vh="H" team="COL" time="05:11" uni="12" checkname="GARZON,LIOR" hscore="23" vscore="21" action="GOOD" type="LAYUP"/>
+      <play vh="V" team="GON" time="04:52" uni="5" checkname="HUIJBENS,MAUD" action="MISS" type="LAYUP" blocked="Y"/>
+      <play vh="H" team="COL" time="04:52" uni="15" checkname="WETTA,KINDYLL" action="BLOCK"/>
+      <play vh="V" team="GON" time="04:51" checkname="TEAM" action="REBOUND" type="OFF" uni="TM"/>
+      <play vh="H" team="COL" time="04:51" uni="9" checkname="SMITH,SARA-ROSE" action="SUB" type="OUT"/>
+      <play vh="H" team="COL" time="04:51" uni="24" checkname="OLIVER,GRACE" action="SUB" type="IN"/>
+      <play vh="V" team="GON" time="04:51" uni="11" checkname="TURNER,ALLIE" action="TURNOVER" type="BADPASS"/>
+      <play vh="V" team="GON" time="04:51" uni="11" checkname="TURNER,ALLIE" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="04:51" uni="35" checkname="SALENBIEN,BREE" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="04:51" uni="4" checkname="O'CONNOR,CLAIRE" action="SUB" type="IN"/>
+      <play vh="V" team="GON" time="04:51" uni="10" checkname="DALTON,TAYLA" action="SUB" type="IN"/>
+      <play vh="H" team="COL" time="04:37" uni="14" checkname="MASOGAYO,JADE" action="MISS" type="JUMPER" desc="TURNAROUND" to="N" paint="N"/>
+      <play vh="V" team="GON" time="04:34" uni="8" checkname="BETTENCOURT,INES" action="REBOUND" type="DEF"/>
+      <play vh="V" team="GON" time="04:30" uni="10" checkname="DALTON,TAYLA" hscore="23" vscore="23" action="GOOD" type="LAYUP" fastb="Y"/>
+      <play vh="V" team="GON" time="04:30" uni="8" checkname="BETTENCOURT,INES" action="ASSIST"/>
+      <play vh="V" team="GON" time="04:11" uni="8" checkname="BETTENCOURT,INES" action="FOUL" type="PERSONAL" drawnby="TEDER,JOHANNA" drawnuni="21"/>
+      <play vh="H" team="COL" time="04:09" uni="21" checkname="TEDER,JOHANNA" action="SUB" type="OUT"/>
+      <play vh="H" team="COL" time="04:09" uni="11" checkname="DIEW,NYAMER" action="SUB" type="IN"/>
+      <play vh="H" team="COL" time="04:02" uni="14" checkname="MASOGAYO,JADE" hscore="25" vscore="23" action="GOOD" type="LAYUP"/>
+      <play vh="H" team="COL" time="04:02" uni="15" checkname="WETTA,KINDYLL" action="ASSIST"/>
+      <play vh="V" team="GON" time="03:49" uni="4" checkname="O'CONNOR,CLAIRE" hscore="25" vscore="26" action="GOOD" type="3PTR" desc=""/>
+      <play vh="V" team="GON" time="03:49" uni="10" checkname="DALTON,TAYLA" action="ASSIST"/>
+      <play vh="H" team="COL" time="03:33" uni="24" checkname="OLIVER,GRACE" action="MISS" type="LAYUP"/>
+      <play vh="V" team="GON" time="03:31" uni="4" checkname="O'CONNOR,CLAIRE" action="REBOUND" type="DEF"/>
+      <play vh="V" team="GON" time="03:11" uni="8" checkname="BETTENCOURT,INES" action="MISS" type="JUMPER"/>
+      <play vh="H" team="COL" time="03:08" checkname="TEAM" action="REBOUND" type="DEF" uni="TM"/>
+      <play vh="V" team="GON" time="03:08" uni="5" checkname="HUIJBENS,MAUD" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="03:08" uni="15" checkname="EJIM,YVONNE" action="SUB" type="IN"/>
+      <play vh="H" team="COL" time="02:54" uni="12" checkname="GARZON,LIOR" action="MISS" type="3PTR" desc=""/>
+      <play vh="V" team="GON" time="02:54" uni="15" checkname="EJIM,YVONNE" action="REBOUND" type="DEF"/>
+      <play vh="V" team="GON" time="02:54" uni="15" checkname="EJIM,YVONNE" action="MISS" type="JUMPER"/>
+      <play vh="H" team="COL" time="02:54" uni="11" checkname="DIEW,NYAMER" action="REBOUND" type="DEF"/>
+      <play vh="H" team="COL" time="02:03" uni="12" checkname="GARZON,LIOR" action="TURNOVER" type="OFFENSIVE"/>
+      <play vh="H" team="COL" time="02:03" uni="12" checkname="GARZON,LIOR" action="FOUL" type="OFF" drawnby="BETTENCOURT,INES" drawnuni="8"/>
+      <play vh="V" team="GON" time="02:03" uni="8" checkname="BETTENCOURT,INES" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="02:03" uni="11" checkname="TURNER,ALLIE" action="SUB" type="IN"/>
+      <play vh="V" team="GON" time="01:49" uni="15" checkname="EJIM,YVONNE" action="MISS" type="JUMPER" to="N"/>
+      <play vh="H" team="COL" time="01:47" uni="11" checkname="DIEW,NYAMER" action="REBOUND" type="DEF"/>
+      <play vh="H" team="COL" time="01:30" uni="24" checkname="OLIVER,GRACE" action="SUB" type="OUT"/>
+      <play vh="H" team="COL" time="01:30" uni="17" checkname="BETSON,TABITHA" action="SUB" type="IN"/>
+      <play vh="V" team="GON" time="01:30" uni="0" checkname="LITTLE,ESTHER" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="01:30" uni="4" checkname="O'CONNOR,CLAIRE" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="01:30" uni="5" checkname="HUIJBENS,MAUD" action="SUB" type="IN"/>
+      <play vh="V" team="GON" time="01:30" uni="35" checkname="SALENBIEN,BREE" action="SUB" type="IN"/>
+      <play vh="H" team="COL" time="01:22" uni="15" checkname="WETTA,KINDYLL" action="TURNOVER" type="BADPASS"/>
+      <play vh="V" team="GON" time="01:22" uni="5" checkname="HUIJBENS,MAUD" action="STEAL"/>
+      <play vh="V" team="GON" time="01:08" uni="11" checkname="TURNER,ALLIE" action="MISS" type="3PTR" desc="" to="N"/>
+      <play vh="H" team="COL" time="01:06" uni="15" checkname="WETTA,KINDYLL" action="REBOUND" type="DEF"/>
+      <play vh="H" team="COL" time="00:58" uni="17" checkname="BETSON,TABITHA" action="MISS" type="3PTR" desc=""/>
+      <play vh="V" team="GON" time="00:55" uni="15" checkname="EJIM,YVONNE" action="REBOUND" type="DEF"/>
+      <play vh="V" team="GON" time="00:37" uni="5" checkname="HUIJBENS,MAUD" action="MISS" type="3PTR" desc=""/>
+      <play vh="H" team="COL" time="00:34" uni="14" checkname="MASOGAYO,JADE" action="REBOUND" type="DEF"/>
+      <play vh="H" team="COL" time="00:13" uni="15" checkname="WETTA,KINDYLL" action="SUB" type="OUT"/>
+      <play vh="H" team="COL" time="00:13" uni="2" checkname="SANDERS,KENNEDY" action="SUB" type="IN"/>
+      <play vh="V" team="GON" time="00:13" uni="35" checkname="SALENBIEN,BREE" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="00:13" uni="0" checkname="LITTLE,ESTHER" action="SUB" type="IN"/>
+      <play vh="H" team="COL" time="00:06" uni="12" checkname="GARZON,LIOR" action="MISS" type="3PTR" desc=""/>
+      <play vh="V" team="GON" time="00:02" uni="10" checkname="DALTON,TAYLA" action="REBOUND" type="DEF"/>
+      <play vh="H" team="COL" time="00:02" uni="11" checkname="DIEW,NYAMER" action="FOUL" type="PERSONAL" drawnby="DALTON,TAYLA" drawnuni="10"/>
+      <play vh="V" team="GON" time="00:01" uni="0" checkname="LITTLE,ESTHER" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="00:01" uni="10" checkname="DALTON,TAYLA" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="00:01" uni="4" checkname="O'CONNOR,CLAIRE" action="SUB" type="IN"/>
+      <play vh="V" team="GON" time="00:01" uni="35" checkname="SALENBIEN,BREE" action="SUB" type="IN"/>
+      <clock time="00:00"/>
+    </period>
+    <period number="3" time="10:00" periodtype="REGULAR">
+      <summary vh="V" score="25" fgm="9" fga="17" fgm3="5" fga3="8" ftm="2" fta="2" blk="0" stl="4" ast="6" oreb="2" dreb="3" treb="5" pf="5" tf="0" to="1" fgpct="52.9" fg3pct="62.5" ftpct="100"/>
+      <special vh="V" pts_to="4" pts_ch2="6" pts_paint="0" pts_fastb="3" pts_bench="3" ties="" leads="" poss_count="" poss_time="" score_count="" score_time="" lead_time="1488" tied_time="-" large_lead="12" large_lead_t=""/>
+      <summary vh="H" score="17" fgm="5" fga="9" fgm3="1" fga3="3" ftm="6" fta="6" blk="0" stl="1" ast="4" oreb="1" dreb="6" treb="7" pf="3" tf="0" to="5" fgpct="55.6" fg3pct="33.3" ftpct="100"/>
+      <special vh="H" pts_to="0" pts_ch2="2" pts_paint="8" pts_fastb="0" pts_bench="4" ties="" leads="" poss_count="" poss_time="" score_count="" score_time="" lead_time="616" tied_time="-" large_lead="8" large_lead_t=""/>
+      <play vh="H" team="COL" time="10:00" uni="2" checkname="SANDERS,KENNEDY" action="SUB" type="OUT"/>
+      <play vh="H" team="COL" time="10:00" uni="11" checkname="DIEW,NYAMER" action="SUB" type="OUT"/>
+      <play vh="H" team="COL" time="10:00" uni="15" checkname="WETTA,KINDYLL" action="SUB" type="IN"/>
+      <play vh="H" team="COL" time="10:00" uni="21" checkname="TEDER,JOHANNA" action="SUB" type="IN"/>
+      <play vh="V" team="GON" time="10:00" uni="35" checkname="SALENBIEN,BREE" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="10:00" uni="10" checkname="DALTON,TAYLA" action="SUB" type="IN"/>
+      <play vh="V" team="GON" time="09:47" uni="4" checkname="O'CONNOR,CLAIRE" action="MISS" type="3PTR" desc=""/>
+      <play vh="H" team="COL" time="09:45" uni="17" checkname="BETSON,TABITHA" action="REBOUND" type="DEF"/>
+      <play vh="H" team="COL" time="09:32" uni="14" checkname="MASOGAYO,JADE" hscore="27" vscore="26" action="GOOD" type="LAYUP"/>
+      <play vh="H" team="COL" time="09:32" uni="15" checkname="WETTA,KINDYLL" action="ASSIST"/>
+      <play vh="V" team="GON" time="09:16" uni="10" checkname="DALTON,TAYLA" action="MISS" type="LAYUP" paint="N"/>
+      <play vh="V" team="GON" time="09:11" uni="10" checkname="DALTON,TAYLA" action="REBOUND" type="OFF"/>
+      <play vh="V" team="GON" time="09:01" uni="5" checkname="HUIJBENS,MAUD" hscore="27" vscore="29" action="GOOD" type="3PTR" desc="" ch2="Y"/>
+      <play vh="V" team="GON" time="09:01" uni="11" checkname="TURNER,ALLIE" action="ASSIST"/>
+      <play vh="V" team="GON" time="08:38" uni="4" checkname="O'CONNOR,CLAIRE" action="FOUL" type="PERSONAL" ft="2" qualifiers="SHOOTING" drawnby="GARZON,LIOR" drawnuni="12"/>
+      <play vh="H" team="COL" time="08:38" uni="12" checkname="GARZON,LIOR" hscore="28" vscore="29" action="GOOD" type="FT" seq="1OF2"/>
+      <play vh="H" team="COL" time="08:38" uni="12" checkname="GARZON,LIOR" hscore="29" vscore="29" action="GOOD" type="FT" seq="2OF2"/>
+      <play vh="V" team="GON" time="08:26" uni="4" checkname="O'CONNOR,CLAIRE" action="MISS" type="3PTR" desc=""/>
+      <play vh="V" team="GON" time="08:24" checkname="TEAM" action="REBOUND" type="OFF" uni="TM"/>
+      <play vh="H" team="COL" time="08:24" uni="14" checkname="MASOGAYO,JADE" action="FOUL" type="PERSONAL" drawnby="EJIM,YVONNE" drawnuni="15"/>
+      <play vh="V" team="GON" time="08:16" uni="11" checkname="TURNER,ALLIE" hscore="29" vscore="32" action="GOOD" type="3PTR" desc="" ch2="Y"/>
+      <play vh="H" team="COL" time="08:08" uni="17" checkname="BETSON,TABITHA" action="TURNOVER" type="BADPASS"/>
+      <play vh="V" team="GON" time="08:08" uni="10" checkname="DALTON,TAYLA" action="STEAL"/>
+      <play vh="V" team="GON" time="08:04" uni="10" checkname="DALTON,TAYLA" action="MISS" type="JUMPER" to="N"/>
+      <play vh="H" team="COL" time="08:01" uni="17" checkname="BETSON,TABITHA" action="REBOUND" type="DEF"/>
+      <play vh="H" team="COL" time="08:00" uni="17" checkname="BETSON,TABITHA" action="TURNOVER" type="BADPASS"/>
+      <play vh="V" team="GON" time="08:00" uni="10" checkname="DALTON,TAYLA" action="STEAL"/>
+      <play vh="V" team="GON" time="07:43" uni="15" checkname="EJIM,YVONNE" hscore="29" vscore="34" action="GOOD" type="JUMPER" to="Y"/>
+      <play vh="H" team="COL" time="07:24" uni="15" checkname="WETTA,KINDYLL" hscore="32" vscore="34" action="GOOD" type="3PTR" desc=""/>
+      <play vh="H" team="COL" time="07:24" uni="17" checkname="BETSON,TABITHA" action="ASSIST"/>
+      <play vh="V" team="GON" time="07:11" uni="15" checkname="EJIM,YVONNE" action="MISS" type="LAYUP"/>
+      <play vh="H" team="COL" time="07:09" uni="12" checkname="GARZON,LIOR" action="REBOUND" type="DEF"/>
+      <play vh="V" team="GON" time="07:06" uni="15" checkname="EJIM,YVONNE" action="FOUL" type="PERSONAL" drawnby="GARZON,LIOR" drawnuni="12"/>
+      <play vh="H" team="COL" time="07:06" uni="17" checkname="BETSON,TABITHA" action="SUB" type="OUT"/>
+      <play vh="H" team="COL" time="07:06" uni="24" checkname="OLIVER,GRACE" action="SUB" type="IN"/>
+      <play vh="V" team="GON" time="07:06" uni="15" checkname="EJIM,YVONNE" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="07:06" uni="0" checkname="LITTLE,ESTHER" action="SUB" type="IN"/>
+      <play vh="V" team="GON" time="06:50" uni="4" checkname="O'CONNOR,CLAIRE" action="FOUL" type="PERSONAL" drawnby="MASOGAYO,JADE" drawnuni="14"/>
+      <play vh="V" team="GON" time="06:50" uni="4" checkname="O'CONNOR,CLAIRE" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="06:50" uni="8" checkname="BETTENCOURT,INES" action="SUB" type="IN"/>
+      <play vh="H" team="COL" time="06:35" uni="15" checkname="WETTA,KINDYLL" action="MISS" type="JUMPER" desc="STEPBACK"/>
+      <play vh="H" team="COL" time="06:33" uni="14" checkname="MASOGAYO,JADE" action="REBOUND" type="OFF"/>
+      <play vh="V" team="GON" time="06:30" uni="0" checkname="LITTLE,ESTHER" action="FOUL" type="PERSONAL" ft="2" qualifiers="SHOOTING" drawnby="GARZON,LIOR" drawnuni="12"/>
+      <play vh="V" team="GON" time="06:30" uni="5" checkname="HUIJBENS,MAUD" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="06:30" uni="10" checkname="DALTON,TAYLA" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="06:30" uni="15" checkname="EJIM,YVONNE" action="SUB" type="IN"/>
+      <play vh="V" team="GON" time="06:30" uni="35" checkname="SALENBIEN,BREE" action="SUB" type="IN"/>
+      <play vh="H" team="COL" time="06:30" uni="12" checkname="GARZON,LIOR" hscore="33" vscore="34" action="GOOD" type="FT" seq="1OF2" ch2="Y"/>
+      <play vh="H" team="COL" time="06:30" uni="12" checkname="GARZON,LIOR" hscore="34" vscore="34" action="GOOD" type="FT" seq="2OF2" ch2="Y"/>
+      <play vh="V" team="GON" time="06:17" uni="11" checkname="TURNER,ALLIE" hscore="34" vscore="36" action="GOOD" type="JUMPER" desc="PULLUP"/>
+      <play vh="H" team="COL" time="06:06" uni="14" checkname="MASOGAYO,JADE" hscore="36" vscore="36" action="GOOD" type="LAYUP"/>
+      <play vh="H" team="COL" time="06:06" uni="21" checkname="TEDER,JOHANNA" action="ASSIST"/>
+      <play vh="V" team="GON" time="05:41" uni="8" checkname="BETTENCOURT,INES" action="MISS" type="3PTR" desc=""/>
+      <play vh="H" team="COL" time="05:38" uni="24" checkname="OLIVER,GRACE" action="REBOUND" type="DEF"/>
+      <play vh="H" team="COL" time="05:20" uni="15" checkname="WETTA,KINDYLL" action="MISS" type="JUMPER"/>
+      <play vh="V" team="GON" time="05:17" uni="8" checkname="BETTENCOURT,INES" action="REBOUND" type="DEF"/>
+      <play vh="V" team="GON" time="05:07" uni="11" checkname="TURNER,ALLIE" hscore="36" vscore="39" action="GOOD" type="3PTR" desc=""/>
+      <play vh="V" team="GON" time="05:07" uni="8" checkname="BETTENCOURT,INES" action="ASSIST"/>
+      <play vh="H" team="COL" time="04:45" uni="12" checkname="GARZON,LIOR" action="MISS" type="3PTR" desc=""/>
+      <play vh="V" team="GON" time="04:42" uni="8" checkname="BETTENCOURT,INES" action="REBOUND" type="DEF"/>
+      <play vh="V" team="GON" time="04:37" uni="35" checkname="SALENBIEN,BREE" hscore="36" vscore="42" action="GOOD" type="3PTR" desc="" fastb="Y"/>
+      <play vh="V" team="GON" time="04:37" uni="8" checkname="BETTENCOURT,INES" action="ASSIST"/>
+      <play vh="H" team="COL" time="04:30" checkname="TEAM" action="TIMEOUT" type="30SEC"/>
+      <play time="04:30" checkname="TEAM" action="TIMEOUT" type="MEDIA"/>
+      <play vh="H" team="COL" time="04:30" uni="21" checkname="TEDER,JOHANNA" action="SUB" type="OUT"/>
+      <play vh="H" team="COL" time="04:30" uni="11" checkname="DIEW,NYAMER" action="SUB" type="IN"/>
+      <play vh="H" team="COL" time="04:09" uni="14" checkname="MASOGAYO,JADE" action="FOUL" type="OFF"/>
+      <play vh="H" team="COL" time="04:09" uni="14" checkname="MASOGAYO,JADE" action="TURNOVER" type="OFFENSIVE"/>
+      <play time="04:09" checkname="TEAM" action="TIMEOUT" type="MEDIA"/>
+      <play vh="V" team="GON" time="04:09" uni="0" checkname="LITTLE,ESTHER" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="04:09" uni="5" checkname="HUIJBENS,MAUD" action="SUB" type="IN"/>
+      <play vh="V" team="GON" time="03:52" uni="15" checkname="EJIM,YVONNE" hscore="36" vscore="44" action="GOOD" type="JUMPER" to="Y"/>
+      <play vh="V" team="GON" time="03:52" uni="11" checkname="TURNER,ALLIE" action="ASSIST"/>
+      <play vh="H" team="COL" time="03:31" uni="24" checkname="OLIVER,GRACE" hscore="38" vscore="44" action="GOOD" type="LAYUP"/>
+      <play vh="H" team="COL" time="03:31" uni="11" checkname="DIEW,NYAMER" action="ASSIST"/>
+      <play vh="V" team="GON" time="03:16" uni="11" checkname="TURNER,ALLIE" hscore="38" vscore="47" action="GOOD" type="3PTR" desc=""/>
+      <play vh="V" team="GON" time="03:16" uni="8" checkname="BETTENCOURT,INES" action="ASSIST"/>
+      <play vh="H" team="COL" time="02:57" uni="11" checkname="DIEW,NYAMER" action="MISS" type="3PTR" desc=""/>
+      <play vh="V" team="GON" time="02:53" uni="15" checkname="EJIM,YVONNE" action="REBOUND" type="DEF"/>
+      <play vh="V" team="GON" time="02:25" uni="15" checkname="EJIM,YVONNE" hscore="38" vscore="49" action="GOOD" type="JUMPER"/>
+      <play vh="V" team="GON" time="02:25" uni="11" checkname="TURNER,ALLIE" action="ASSIST"/>
+      <play vh="V" team="GON" time="02:00" uni="5" checkname="HUIJBENS,MAUD" action="FOUL" type="PERSONAL" ft="2" qualifiers="SHOOTING" drawnby="MASOGAYO,JADE" drawnuni="14"/>
+      <play vh="H" team="COL" time="02:00" uni="12" checkname="GARZON,LIOR" action="SUB" type="OUT"/>
+      <play vh="H" team="COL" time="02:00" uni="15" checkname="WETTA,KINDYLL" action="SUB" type="OUT"/>
+      <play vh="H" team="COL" time="02:00" uni="24" checkname="OLIVER,GRACE" action="SUB" type="OUT"/>
+      <play vh="H" team="COL" time="02:00" uni="2" checkname="SANDERS,KENNEDY" action="SUB" type="IN"/>
+      <play vh="H" team="COL" time="02:00" uni="17" checkname="BETSON,TABITHA" action="SUB" type="IN"/>
+      <play vh="H" team="COL" time="02:00" uni="21" checkname="TEDER,JOHANNA" action="SUB" type="IN"/>
+      <play vh="V" team="GON" time="02:00" uni="35" checkname="SALENBIEN,BREE" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="02:00" uni="10" checkname="DALTON,TAYLA" action="SUB" type="IN"/>
+      <play vh="H" team="COL" time="02:00" uni="14" checkname="MASOGAYO,JADE" hscore="39" vscore="49" action="GOOD" type="FT" seq="1OF2"/>
+      <play vh="H" team="COL" time="02:00" uni="14" checkname="MASOGAYO,JADE" hscore="40" vscore="49" action="GOOD" type="FT" seq="2OF2"/>
+      <play vh="H" team="COL" time="01:36" uni="21" checkname="TEDER,JOHANNA" action="FOUL" type="PERSONAL" ft="2" qualifiers="SHOOTING" drawnby="DALTON,TAYLA" drawnuni="10"/>
+      <play vh="V" team="GON" time="01:36" uni="15" checkname="EJIM,YVONNE" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="01:36" uni="0" checkname="LITTLE,ESTHER" action="SUB" type="IN"/>
+      <play vh="V" team="GON" time="01:36" uni="10" checkname="DALTON,TAYLA" hscore="40" vscore="50" action="GOOD" type="FT" seq="1OF2"/>
+      <play vh="V" team="GON" time="01:36" uni="10" checkname="DALTON,TAYLA" hscore="40" vscore="51" action="GOOD" type="FT" seq="2OF2"/>
+      <play vh="H" team="COL" time="01:36" uni="14" checkname="MASOGAYO,JADE" action="SUB" type="OUT"/>
+      <play vh="H" team="COL" time="01:36" uni="9" checkname="SMITH,SARA-ROSE" action="SUB" type="IN"/>
+      <play vh="H" team="COL" time="01:24" uni="17" checkname="BETSON,TABITHA" action="TURNOVER" type="BADPASS"/>
+      <play vh="V" team="GON" time="01:24" uni="8" checkname="BETTENCOURT,INES" action="STEAL"/>
+      <play vh="V" team="GON" time="01:18" uni="8" checkname="BETTENCOURT,INES" action="MISS" type="LAYUP" to="N"/>
+      <play vh="H" team="COL" time="01:15" uni="17" checkname="BETSON,TABITHA" action="REBOUND" type="DEF"/>
+      <play vh="H" team="COL" time="00:59" uni="2" checkname="SANDERS,KENNEDY" hscore="42" vscore="51" action="GOOD" type="LAYUP" desc="DRIVING"/>
+      <play vh="V" team="GON" time="00:30" uni="8" checkname="BETTENCOURT,INES" action="TURNOVER" type="BADPASS"/>
+      <play vh="H" team="COL" time="00:30" uni="9" checkname="SMITH,SARA-ROSE" action="STEAL"/>
+      <play vh="H" team="COL" time="00:05" uni="2" checkname="SANDERS,KENNEDY" action="TURNOVER" type="BADPASS"/>
+      <play vh="V" team="GON" time="00:05" uni="11" checkname="TURNER,ALLIE" action="STEAL"/>
+      <play vh="V" team="GON" time="00:00" uni="0" checkname="LITTLE,ESTHER" action="MISS" type="JUMPER" to="N"/>
+      <play vh="H" team="COL" time="00:00" checkname="TEAM" action="REBOUND" type="DEF" uni="TM"/>
+      <clock time="00:00"/>
+    </period>
+    <period number="4" time="10:00" periodtype="REGULAR">
+      <summary vh="V" score="13" fgm="5" fga="14" fgm3="1" fga3="4" ftm="2" fta="2" blk="1" stl="4" ast="4" oreb="3" dreb="6" treb="9" pf="6" tf="0" to="4" fgpct="35.7" fg3pct="25" ftpct="100"/>
+      <special vh="V" pts_to="2" pts_ch2="0" pts_paint="8" pts_fastb="2" pts_bench="5" ties="" leads="" poss_count="" poss_time="" score_count="" score_time="" lead_time="1488" tied_time="-" large_lead="12" large_lead_t=""/>
+      <summary vh="H" score="13" fgm="3" fga="9" fgm3="1" fga3="3" ftm="6" fta="9" blk="1" stl="2" ast="2" oreb="0" dreb="6" treb="6" pf="5" tf="0" to="4" fgpct="33.3" fg3pct="33.3" ftpct="66.7"/>
+      <special vh="H" pts_to="3" pts_ch2="0" pts_paint="2" pts_fastb="5" pts_bench="6" ties="" leads="" poss_count="" poss_time="" score_count="" score_time="" lead_time="616" tied_time="-" large_lead="8" large_lead_t=""/>
+      <play vh="V" team="GON" time="10:00" uni="0" checkname="LITTLE,ESTHER" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="10:00" uni="8" checkname="BETTENCOURT,INES" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="10:00" uni="15" checkname="EJIM,YVONNE" action="SUB" type="IN"/>
+      <play vh="V" team="GON" time="10:00" uni="35" checkname="SALENBIEN,BREE" action="SUB" type="IN"/>
+      <play vh="H" team="COL" time="09:38" uni="2" checkname="SANDERS,KENNEDY" action="MISS" type="JUMPER" paint="N"/>
+      <play vh="V" team="GON" time="09:35" uni="5" checkname="HUIJBENS,MAUD" action="REBOUND" type="DEF"/>
+      <play vh="V" team="GON" time="09:19" uni="35" checkname="SALENBIEN,BREE" action="MISS" type="LAYUP" blocked="Y"/>
+      <play vh="H" team="COL" time="09:19" uni="9" checkname="SMITH,SARA-ROSE" action="BLOCK"/>
+      <play vh="V" team="GON" time="09:19" checkname="TEAM" action="REBOUND" type="OFF" uni="TM"/>
+      <play vh="H" team="COL" time="09:18" uni="9" checkname="SMITH,SARA-ROSE" action="SUB" type="OUT"/>
+      <play vh="H" team="COL" time="09:18" uni="21" checkname="TEDER,JOHANNA" action="SUB" type="OUT"/>
+      <play vh="H" team="COL" time="09:18" uni="12" checkname="GARZON,LIOR" action="SUB" type="IN"/>
+      <play vh="H" team="COL" time="09:18" uni="14" checkname="MASOGAYO,JADE" action="SUB" type="IN"/>
+      <play vh="H" team="COL" time="09:12" uni="11" checkname="DIEW,NYAMER" action="FOUL" type="PERSONAL" drawnby="HUIJBENS,MAUD" drawnuni="5"/>
+      <play vh="V" team="GON" time="08:57" uni="10" checkname="DALTON,TAYLA" action="MISS" type="JUMPER" ch2="N"/>
+      <play vh="H" team="COL" time="08:54" uni="12" checkname="GARZON,LIOR" action="REBOUND" type="DEF"/>
+      <play vh="H" team="COL" time="08:29" uni="2" checkname="SANDERS,KENNEDY" action="MISS" type="LAYUP" blocked="Y"/>
+      <play vh="V" team="GON" time="08:29" uni="5" checkname="HUIJBENS,MAUD" action="BLOCK"/>
+      <play vh="V" team="GON" time="08:24" uni="15" checkname="EJIM,YVONNE" action="REBOUND" type="DEF"/>
+      <play vh="V" team="GON" time="08:23" uni="5" checkname="HUIJBENS,MAUD" hscore="42" vscore="53" action="GOOD" type="LAYUP"/>
+      <play vh="V" team="GON" time="08:23" uni="15" checkname="EJIM,YVONNE" action="ASSIST"/>
+      <play vh="V" team="GON" time="08:04" uni="5" checkname="HUIJBENS,MAUD" action="FOUL" type="PERSONAL" drawnby="MASOGAYO,JADE" drawnuni="14"/>
+      <play vh="H" team="COL" time="08:04" uni="2" checkname="SANDERS,KENNEDY" action="SUB" type="OUT"/>
+      <play vh="H" team="COL" time="08:04" uni="15" checkname="WETTA,KINDYLL" action="SUB" type="IN"/>
+      <play vh="H" team="COL" time="07:51" uni="11" checkname="DIEW,NYAMER" hscore="44" vscore="53" action="GOOD" type="JUMPER" desc="PULLUP"/>
+      <play vh="V" team="GON" time="07:50" uni="5" checkname="HUIJBENS,MAUD" action="FOUL" type="PERSONAL" ft="1" qualifiers="SHOOTING" drawnby="DIEW,NYAMER" drawnuni="11"/>
+      <play vh="V" team="GON" time="07:50" uni="5" checkname="HUIJBENS,MAUD" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="07:50" uni="0" checkname="LITTLE,ESTHER" action="SUB" type="IN"/>
+      <play vh="H" team="COL" time="07:50" uni="11" checkname="DIEW,NYAMER" hscore="45" vscore="53" action="GOOD" type="FT" seq="1OF1"/>
+      <play vh="V" team="GON" time="07:37" uni="0" checkname="LITTLE,ESTHER" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="07:37" uni="4" checkname="O'CONNOR,CLAIRE" action="SUB" type="IN"/>
+      <play vh="V" team="GON" time="07:31" uni="10" checkname="DALTON,TAYLA" action="TURNOVER" type="BADPASS"/>
+      <play vh="H" team="COL" time="07:31" uni="11" checkname="DIEW,NYAMER" action="STEAL"/>
+      <play vh="V" team="GON" time="07:27" uni="11" checkname="TURNER,ALLIE" action="FOUL" type="PERSONAL" ft="2" qualifiers="SHOOTING" drawnby="DIEW,NYAMER" drawnuni="11"/>
+      <play vh="V" team="GON" time="07:27" uni="10" checkname="DALTON,TAYLA" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="07:27" uni="5" checkname="HUIJBENS,MAUD" action="SUB" type="IN"/>
+      <play vh="H" team="COL" time="07:27" uni="11" checkname="DIEW,NYAMER" action="MISS" type="FT" seq="1OF2" fastb="N" to="N"/>
+      <play vh="H" team="COL" time="07:27" checkname="TEAM" action="REBOUND" type="OFF" uni="TM" desc="DEADBALL"/>
+      <play vh="H" team="COL" time="07:27" uni="11" checkname="DIEW,NYAMER" hscore="46" vscore="53" action="GOOD" type="FT" seq="2OF2" fastb="Y" to="Y"/>
+      <play vh="V" team="GON" time="07:08" uni="35" checkname="SALENBIEN,BREE" action="MISS" type="3PTR" desc=""/>
+      <play vh="H" team="COL" time="07:04" uni="14" checkname="MASOGAYO,JADE" action="REBOUND" type="DEF"/>
+      <play vh="H" team="COL" time="06:51" uni="14" checkname="MASOGAYO,JADE" action="TURNOVER" type="LOSTBALL"/>
+      <play vh="V" team="GON" time="06:51" uni="35" checkname="SALENBIEN,BREE" action="STEAL"/>
+      <play vh="V" team="GON" time="06:45" uni="4" checkname="O'CONNOR,CLAIRE" hscore="46" vscore="55" action="GOOD" type="LAYUP" to="Y" fastb="Y"/>
+      <play vh="V" team="GON" time="06:45" uni="15" checkname="EJIM,YVONNE" action="ASSIST"/>
+      <play vh="H" team="COL" time="06:31" uni="11" checkname="DIEW,NYAMER" action="TURNOVER" type="BADPASS"/>
+      <play vh="V" team="GON" time="06:31" uni="35" checkname="SALENBIEN,BREE" action="STEAL"/>
+      <play vh="V" team="GON" time="06:04" uni="4" checkname="O'CONNOR,CLAIRE" action="MISS" type="3PTR" desc="" to="N"/>
+      <play vh="V" team="GON" time="06:01" uni="35" checkname="SALENBIEN,BREE" action="REBOUND" type="OFF"/>
+      <play vh="V" team="GON" time="05:56" uni="4" checkname="O'CONNOR,CLAIRE" action="MISS" type="3PTR" desc="" ch2="N" to="N"/>
+      <play vh="H" team="COL" time="05:53" checkname="TEAM" action="REBOUND" type="DEF" uni="TM"/>
+      <play vh="H" team="COL" time="05:31" uni="11" checkname="DIEW,NYAMER" hscore="48" vscore="55" action="GOOD" type="LAYUP"/>
+      <play vh="H" team="COL" time="05:31" uni="12" checkname="GARZON,LIOR" action="ASSIST"/>
+      <play vh="V" team="GON" time="05:18" uni="15" checkname="EJIM,YVONNE" hscore="48" vscore="57" action="GOOD" type="JUMPER" paint="Y"/>
+      <play vh="V" team="GON" time="05:18" checkname="TEAM" action="TIMEOUT" type="30SEC"/>
+      <play time="05:18" checkname="TEAM" action="TIMEOUT" type="MEDIA"/>
+      <play vh="V" team="GON" time="05:18" uni="4" checkname="O'CONNOR,CLAIRE" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="05:18" uni="11" checkname="TURNER,ALLIE" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="05:18" uni="0" checkname="LITTLE,ESTHER" action="SUB" type="IN"/>
+      <play vh="V" team="GON" time="05:18" uni="8" checkname="BETTENCOURT,INES" action="SUB" type="IN"/>
+      <play vh="V" team="GON" time="05:05" uni="15" checkname="EJIM,YVONNE" action="FOUL" type="PERSONAL" ft="2" qualifiers="SHOOTING" drawnby="MASOGAYO,JADE" drawnuni="14"/>
+      <play vh="V" team="GON" time="05:05" uni="0" checkname="LITTLE,ESTHER" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="05:05" uni="4" checkname="O'CONNOR,CLAIRE" action="SUB" type="IN"/>
+      <play vh="H" team="COL" time="05:05" uni="14" checkname="MASOGAYO,JADE" action="MISS" type="FT" seq="1OF2"/>
+      <play vh="H" team="COL" time="05:05" checkname="TEAM" action="REBOUND" type="OFF" uni="TM" desc="DEADBALL"/>
+      <play vh="H" team="COL" time="05:05" uni="14" checkname="MASOGAYO,JADE" hscore="49" vscore="57" action="GOOD" type="FT" seq="2OF2"/>
+      <play vh="V" team="GON" time="04:40" uni="5" checkname="HUIJBENS,MAUD" action="MISS" type="LAYUP"/>
+      <play vh="H" team="COL" time="04:38" uni="17" checkname="BETSON,TABITHA" action="REBOUND" type="DEF"/>
+      <play vh="H" team="COL" time="04:17" uni="14" checkname="MASOGAYO,JADE" action="TURNOVER" type="BADPASS"/>
+      <play vh="V" team="GON" time="04:17" uni="15" checkname="EJIM,YVONNE" action="STEAL"/>
+      <play vh="V" team="GON" time="04:13" uni="8" checkname="BETTENCOURT,INES" action="TURNOVER" type="BADPASS"/>
+      <play vh="H" team="COL" time="04:13" uni="11" checkname="DIEW,NYAMER" action="STEAL"/>
+      <play vh="H" team="COL" time="04:07" uni="15" checkname="WETTA,KINDYLL" action="TURNOVER" type="BADPASS"/>
+      <play vh="V" team="GON" time="04:07" uni="5" checkname="HUIJBENS,MAUD" action="STEAL"/>
+      <play vh="V" team="GON" time="03:48" uni="35" checkname="SALENBIEN,BREE" action="MISS" type="JUMPER" to="N" paint="N"/>
+      <play vh="H" team="COL" time="03:45" uni="14" checkname="MASOGAYO,JADE" action="REBOUND" type="DEF"/>
+      <play vh="H" team="COL" time="03:32" uni="17" checkname="BETSON,TABITHA" action="MISS" type="3PTR" desc=""/>
+      <play vh="V" team="GON" time="03:29" uni="15" checkname="EJIM,YVONNE" action="REBOUND" type="DEF"/>
+      <play vh="V" team="GON" time="03:16" uni="5" checkname="HUIJBENS,MAUD" hscore="49" vscore="59" action="GOOD" type="LAYUP"/>
+      <play vh="V" team="GON" time="03:16" uni="35" checkname="SALENBIEN,BREE" action="ASSIST"/>
+      <play vh="H" team="COL" time="03:13" checkname="TEAM" action="TIMEOUT" type="30SEC"/>
+      <play vh="V" team="GON" time="03:13" uni="4" checkname="O'CONNOR,CLAIRE" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="03:13" uni="8" checkname="BETTENCOURT,INES" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="03:13" uni="35" checkname="SALENBIEN,BREE" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="03:13" uni="0" checkname="LITTLE,ESTHER" action="SUB" type="IN"/>
+      <play vh="V" team="GON" time="03:13" uni="10" checkname="DALTON,TAYLA" action="SUB" type="IN"/>
+      <play vh="V" team="GON" time="03:13" uni="11" checkname="TURNER,ALLIE" action="SUB" type="IN"/>
+      <play vh="H" team="COL" time="02:52" uni="12" checkname="GARZON,LIOR" action="MISS" type="3PTR" desc=""/>
+      <play vh="V" team="GON" time="02:49" uni="5" checkname="HUIJBENS,MAUD" action="REBOUND" type="DEF"/>
+      <play vh="H" team="COL" time="02:49" uni="11" checkname="DIEW,NYAMER" action="FOUL" type="PERSONAL" drawnby="HUIJBENS,MAUD" drawnuni="5"/>
+      <play vh="V" team="GON" time="02:49" uni="0" checkname="LITTLE,ESTHER" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="02:49" uni="35" checkname="SALENBIEN,BREE" action="SUB" type="IN"/>
+      <play vh="V" team="GON" time="02:39" checkname="TEAM" action="TURNOVER" type="10SEC"/>
+      <play vh="V" team="GON" time="02:39" uni="35" checkname="SALENBIEN,BREE" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="02:39" uni="0" checkname="LITTLE,ESTHER" action="SUB" type="IN"/>
+      <play vh="V" team="GON" time="02:30" uni="5" checkname="HUIJBENS,MAUD" action="FOUL" type="PERSONAL" ft="2" drawnby="BETSON,TABITHA" drawnuni="17"/>
+      <play vh="H" team="COL" time="02:30" uni="17" checkname="BETSON,TABITHA" hscore="50" vscore="59" action="GOOD" type="FT" seq="1OF2" to="Y"/>
+      <play vh="H" team="COL" time="02:30" uni="17" checkname="BETSON,TABITHA" hscore="51" vscore="59" action="GOOD" type="FT" seq="2OF2" to="Y"/>
+      <play vh="V" team="GON" time="02:13" uni="0" checkname="LITTLE,ESTHER" action="TURNOVER" type="BADPASS"/>
+      <play vh="V" team="GON" time="02:13" uni="5" checkname="HUIJBENS,MAUD" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="02:13" uni="35" checkname="SALENBIEN,BREE" action="SUB" type="IN"/>
+      <play vh="H" team="COL" time="01:56" uni="14" checkname="MASOGAYO,JADE" action="MISS" type="JUMPER" to="N"/>
+      <play vh="V" team="GON" time="01:53" uni="15" checkname="EJIM,YVONNE" action="REBOUND" type="DEF"/>
+      <play vh="H" team="COL" time="01:46" uni="17" checkname="BETSON,TABITHA" action="FOUL" type="PERSONAL" drawnby="TURNER,ALLIE" drawnuni="11"/>
+      <play vh="V" team="GON" time="01:46" uni="0" checkname="LITTLE,ESTHER" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="01:46" uni="5" checkname="HUIJBENS,MAUD" action="SUB" type="IN"/>
+      <play vh="V" team="GON" time="01:34" uni="15" checkname="EJIM,YVONNE" action="MISS" type="JUMPER"/>
+      <play vh="V" team="GON" time="01:29" uni="5" checkname="HUIJBENS,MAUD" action="REBOUND" type="OFF"/>
+      <play vh="V" team="GON" time="01:29" uni="5" checkname="HUIJBENS,MAUD" action="MISS" type="JUMPER" desc="TIPINLAYUP" ch2="N"/>
+      <play vh="H" team="COL" time="01:27" uni="15" checkname="WETTA,KINDYLL" action="REBOUND" type="DEF"/>
+      <play vh="V" team="GON" time="01:24" uni="35" checkname="SALENBIEN,BREE" action="FOUL" type="PERSONAL" ft="2" drawnby="WETTA,KINDYLL" drawnuni="15"/>
+      <play vh="H" team="COL" time="01:24" uni="15" checkname="WETTA,KINDYLL" action="MISS" type="FT" seq="1OF2" fastb="N"/>
+      <play vh="H" team="COL" time="01:24" checkname="TEAM" action="REBOUND" type="OFF" uni="TM" desc="DEADBALL"/>
+      <play vh="H" team="COL" time="01:24" uni="15" checkname="WETTA,KINDYLL" hscore="52" vscore="59" action="GOOD" type="FT" seq="2OF2" fastb="Y"/>
+      <play vh="H" team="COL" time="01:02" uni="11" checkname="DIEW,NYAMER" action="FOUL" type="PERSONAL" drawnby="TURNER,ALLIE" drawnuni="11"/>
+      <play vh="H" team="COL" time="00:58" uni="12" checkname="GARZON,LIOR" action="FOUL" type="PERSONAL" ft="2" drawnby="SALENBIEN,BREE" drawnuni="35"/>
+      <play vh="V" team="GON" time="00:58" uni="5" checkname="HUIJBENS,MAUD" action="SUB" type="OUT"/>
+      <play vh="V" team="GON" time="00:58" uni="0" checkname="LITTLE,ESTHER" action="SUB" type="IN"/>
+      <play vh="V" team="GON" time="00:58" uni="35" checkname="SALENBIEN,BREE" hscore="52" vscore="60" action="GOOD" type="FT" seq="1OF2"/>
+      <play vh="V" team="GON" time="00:58" uni="35" checkname="SALENBIEN,BREE" hscore="52" vscore="61" action="GOOD" type="FT" seq="2OF2"/>
+      <play vh="H" team="COL" time="00:47" uni="11" checkname="DIEW,NYAMER" action="MISS" type="JUMPER"/>
+      <play vh="V" team="GON" time="00:45" uni="11" checkname="TURNER,ALLIE" action="REBOUND" type="DEF"/>
+      <play vh="V" team="GON" time="00:20" uni="35" checkname="SALENBIEN,BREE" hscore="52" vscore="64" action="GOOD" type="3PTR" desc=""/>
+      <play vh="V" team="GON" time="00:20" uni="15" checkname="EJIM,YVONNE" action="ASSIST"/>
+      <play vh="H" team="COL" time="00:12" uni="12" checkname="GARZON,LIOR" hscore="55" vscore="64" action="GOOD" type="3PTR" desc="" fastb="Y"/>
+      <play vh="H" team="COL" time="00:12" uni="17" checkname="BETSON,TABITHA" action="ASSIST"/>
+      <clock time="00:00"/>
+    </period>
+  </plays>
+</bbgame>
